@@ -1,0 +1,601 @@
+Person_ID,Occupation,Area_Selected,Monthly_Rent,Distance_To_Work,Public_Transport,Safety_Rating,Nearby_Hospitals,Nearby_Schools,Shopping_Access,Noise_Level,Internet_Availability,Main_Reason,Household_Type,Age,Annual_Income,Monthly_Income,Rent_Income_Ratio
+P0285,Business,Green Valley,22000.0,2.2,Good,5.0,Yes,Yes,Good,Low,Excellent,Shopping Access,Family,26.0,1176000.0,98000.0,0.22448979591836735
+P0412,Healthcare,Tech Park,23500.0,2.3,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Affordable Rent,Single,60.0,252000.0,21000.0,1.119047619047619
+P0494,Government,Green Valley,20500.0,9.0,Good,5.0,Yes,Yes,Good,Low,Excellent,Quiet Environment,Couple,43.0,768000.0,64000.0,0.3203125
+P0040,Finance,North Avenue,16500.0,10.0,Good,4.0,No,Yes,Good,Medium,Good,Schools,Single,33.0,768000.0,64000.0,0.2578125
+P0255,Self-Employed,North Avenue,20000.0,9.4,Good,4.0,Yes,Yes,Good,Medium,Good,Short Commute,Couple,46.0,876000.0,73000.0,0.273972602739726
+P0592,Teacher,Lake View,21000.0,7.7,Good,5.0,Yes,Yes,Good,Low,Excellent,Safety,Single,58.0,948000.0,79000.0,0.26582278481012656
+P0263,Teacher,Lake View,25000.0,13.4,Good,5.0,Yes,Yes,Good,Low,Excellent,Quiet Environment,Single,34.0,1056000.0,88000.0,0.2840909090909091
+P0198,Healthcare,City Center,27500.0,2.2,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Quiet Environment,Family,54.0,696000.0,58000.0,0.47413793103448276
+P0437,Government,Lake View,18500.0,12.8,Good,5.0,Yes,Yes,Good,Low,Excellent,Short Commute,Single,22.0,1020000.0,85000.0,0.21764705882352942
+P0221,Healthcare,North Avenue,19000.0,10.8,Good,4.0,Yes,Yes,Good,Medium,Good,Schools,Family,31.0,156000.0,13000.0,1.4615384615384615
+P0305,It Professional,Green Valley,19000.0,9.6,Good,5.0,No,Yes,Good,Low,Excellent,Safety,Family,34.0,1680000.0,140000.0,0.1357142857142857
+P0573,Self-Employed,Lake View,24000.0,12.9,Good,5.0,Yes,Yes,Good,Low,Excellent,Affordable Rent,Single,33.0,1608000.0,134000.0,0.1791044776119403
+P0355,Self-Employed,City Center,29000.0,4.9,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Public Transport,Couple,24.0,468000.0,39000.0,0.7435897435897436
+P0135,Healthcare,Hill View,13500.0,8.6,Poor,4.0,No,Yes,Average,Low,Good,Public Transport,Family,42.0,996000.0,83000.0,0.16265060240963855
+P0431,Healthcare,Lake View,22500.0,12.6,Good,5.0,Yes,Yes,Good,Low,Excellent,Short Commute,Family,44.0,948000.0,79000.0,0.2848101265822785
+P0428,Healthcare,North Avenue,17000.0,3.5,Good,4.0,Yes,Yes,Good,Medium,Good,Affordable Rent,Couple,62.0,804000.0,67000.0,0.2537313432835821
+P0262,Self-Employed,South Garden,10500.0,15.2,Average,3.0,No,Yes,Average,Low,Average,Quiet Environment,Family,38.0,1140000.0,95000.0,0.11052631578947368
+P0062,Self-Employed,Riverside,19000.0,12.9,Average,4.0,Yes,Yes,Good,Low,Good,Shopping Access,Family,25.0,996000.0,83000.0,0.2289156626506024
+P0125,It Professional,Hill View,14500.0,17.6,Poor,4.0,No,Yes,Average,Low,Good,Public Transport,Couple,34.0,984000.0,82000.0,0.17682926829268292
+P0357,Self-Employed,Green Valley,19500.0,10.2,Good,5.0,Yes,Yes,Good,Low,Excellent,Affordable Rent,Couple,36.0,720000.0,60000.0,0.325
+P0457,Teacher,Lake View,20500.0,5.8,Good,5.0,Yes,Yes,Good,Low,Excellent,Safety,Couple,46.0,348000.0,29000.0,0.7068965517241379
+P0548,Healthcare,Hill View,13000.0,15.5,Poor,4.0,No,Yes,Average,Low,Good,Schools,Family,29.0,240000.0,20000.0,0.65
+P0155,Teacher,Green Valley,18500.0,4.9,Good,5.0,Yes,Yes,Good,Low,Excellent,Shopping Access,Couple,24.0,1380000.0,115000.0,0.1608695652173913
+P0160,Government,South Garden,13000.0,8.6,Average,3.0,No,Yes,Average,Low,Average,Safety,Family,18.0,192000.0,16000.0,0.8125
+P0461,Business,City Center,27500.0,10.0,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Affordable Rent,Couple,32.0,192000.0,16000.0,1.71875
+P0522,Healthcare,Lake View,20500.0,11.7,Good,5.0,Yes,Yes,Good,Low,Excellent,Shopping Access,Couple,25.0,1116000.0,93000.0,0.22043010752688172
+P0364,Finance,Riverside,19500.0,14.4,Average,4.0,Yes,Yes,Good,Low,Good,Safety,Couple,32.0,1068000.0,89000.0,0.21910112359550563
+P0590,Finance,Green Valley,17500.0,10.6,Good,5.0,Yes,Yes,Good,Low,Excellent,Affordable Rent,Couple,40.0,840000.0,70000.0,0.25
+P0185,Self-Employed,Green Valley,18500.0,5.5,Good,5.0,Yes,Yes,Good,Low,Excellent,Affordable Rent,Family,19.0,744000.0,62000.0,0.29838709677419356
+P0511,Finance,Riverside,18000.0,13.6,Average,4.0,Yes,Yes,Good,Low,Good,Schools,Family,51.0,1812000.0,151000.0,0.11920529801324503
+P0101,Business,Hill View,17000.0,14.3,Poor,4.0,No,Yes,Average,Low,Good,Safety,Family,29.0,144000.0,12000.0,1.4166666666666667
+P0487,Self-Employed,Tech Park,26000.0,1.3,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Affordable Rent,Couple,40.0,240000.0,20000.0,1.3
+P0329,Self-Employed,City Center,27000.0,5.5,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Safety,Family,20.0,1704000.0,142000.0,0.19014084507042253
+P0063,Teacher,Hill View,16500.0,15.0,Poor,4.0,Yes,Yes,Average,Low,Good,Public Transport,Couple,41.0,852000.0,71000.0,0.2323943661971831
+P0030,Self-Employed,Tech Park,26000.0,4.8,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Short Commute,Family,33.0,456000.0,38000.0,0.6842105263157895
+P0254,It Professional,South Garden,15000.0,13.4,Average,3.0,No,Yes,Average,Low,Average,Safety,Couple,23.0,420000.0,35000.0,0.42857142857142855
+P0085,Teacher,Green Valley,19500.0,10.9,Good,5.0,Yes,Yes,Good,Low,Excellent,Safety,Couple,26.0,636000.0,53000.0,0.36792452830188677
+P0430,Business,North Avenue,17000.0,9.2,Good,4.0,Yes,Yes,Good,Medium,Good,Safety,Single,23.0,852000.0,71000.0,0.23943661971830985
+P0444,Finance,City Center,30000.0,4.1,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Shopping Access,Family,20.0,288000.0,24000.0,1.25
+P0528,It Professional,South Garden,13500.0,10.6,Average,3.0,No,Yes,Average,Low,Average,Public Transport,Family,36.0,480000.0,40000.0,0.3375
+P0446,Teacher,Tech Park,26500.0,0.5,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Shopping Access,Couple,63.0,852000.0,71000.0,0.3732394366197183
+P0142,It Professional,North Avenue,17000.0,8.4,Good,4.0,Yes,Yes,Good,Medium,Good,Safety,Family,22.0,2028000.0,169000.0,0.10059171597633136
+P0315,Finance,Hill View,17500.0,16.5,Poor,4.0,No,Yes,Average,Low,Good,Safety,Couple,29.0,792000.0,66000.0,0.26515151515151514
+P0524,It Professional,City Center,30500.0,0.5,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Safety,Family,20.0,180000.0,15000.0,2.033333333333333
+P0045,Teacher,North Avenue,17500.0,8.9,Good,4.0,Yes,Yes,Good,Medium,Good,Safety,Couple,42.0,456000.0,38000.0,0.4605263157894737
+P0211,It Professional,Tech Park,27000.0,1.2,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Safety,Couple,37.0,204000.0,17000.0,1.588235294117647
+P0131,Healthcare,Green Valley,20500.0,7.9,Good,5.0,Yes,Yes,Good,Low,Excellent,Shopping Access,Single,23.0,264000.0,22000.0,0.9318181818181818
+P0245,Finance,City Center,27000.0,3.3,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Affordable Rent,Single,23.0,1704000.0,142000.0,0.19014084507042253
+P0571,Self-Employed,City Center,28500.0,4.4,Excellent,4.0,Yes,Yes,Excellent,High,Excellent,Schools,Couple,66.0,144000.0,12000.0,2.375
+P0024,Teacher,Tech Park,24000.0,3.5,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Schools,Couple,22.0,444000.0,37000.0,0.6486486486486487
+P0385,Self-Employed,Green Valley,19000.0,11.5,Good,5.0,Yes,Yes,Good,Low,Excellent,Hospitals,Family,49.0,1176000.0,98000.0,0.19387755102040816
+P0252,Self-Employed,City Center,26500.0,7.6,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Safety,Single,45.0,168000.0,14000.0,1.8928571428571428
+P0372,It Professional,North Avenue,17000.0,5.4,Good,4.0,Yes,Yes,Good,Medium,Good,Short Commute,Couple,30.0,600000.0,50000.0,0.34
+P0200,Self-Employed,Tech Park,26000.0,4.8,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Affordable Rent,Family,60.0,1608000.0,134000.0,0.19402985074626866
+P0401,Business,North Avenue,18000.0,12.0,Good,4.0,Yes,Yes,Good,Medium,Good,Hospitals,Couple,62.0,2052000.0,171000.0,0.10526315789473684
+P0467,Self-Employed,Riverside,19000.0,15.3,Average,4.0,Yes,Yes,Good,Low,Good,Hospitals,Single,51.0,276000.0,23000.0,0.8260869565217391
+P0416,Finance,South Garden,13500.0,7.8,Average,3.0,No,Yes,Average,Low,Average,Affordable Rent,Family,36.0,192000.0,16000.0,0.84375
+P0264,Self-Employed,North Avenue,18500.0,9.0,Good,4.0,Yes,Yes,Good,Low,Good,Affordable Rent,Couple,31.0,948000.0,79000.0,0.23417721518987342
+P0084,Government,Lake View,22500.0,9.4,Good,5.0,Yes,Yes,Good,Low,Excellent,Short Commute,Family,54.0,420000.0,35000.0,0.6428571428571429
+P0032,It Professional,City Center,29000.0,4.5,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Safety,Single,43.0,252000.0,21000.0,1.380952380952381
+P0500,Healthcare,City Center,27000.0,0.5,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Safety,Couple,32.0,1140000.0,95000.0,0.28421052631578947
+P0375,It Professional,Tech Park,25000.0,5.4,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Internet Availability,Couple,24.0,252000.0,21000.0,1.1904761904761905
+P0207,Government,Hill View,16000.0,17.6,Poor,4.0,No,Yes,Average,Low,Good,Safety,Single,26.0,456000.0,38000.0,0.42105263157894735
+P0178,Teacher,North Avenue,15000.0,7.0,Good,4.0,Yes,Yes,Good,Low,Good,Affordable Rent,Single,31.0,888000.0,74000.0,0.20270270270270271
+P0174,Healthcare,North Avenue,18500.0,10.8,Good,4.0,Yes,Yes,Good,Medium,Good,Shopping Access,Single,43.0,288000.0,24000.0,0.7708333333333334
+P0022,Government,South Garden,16000.0,11.1,Average,3.0,No,Yes,Average,Low,Average,Affordable Rent,Single,24.0,480000.0,40000.0,0.4
+P0403,Student,Lake View,18500.0,13.5,Good,5.0,Yes,Yes,Good,Low,Excellent,Short Commute,Family,34.0,480000.0,40000.0,0.4625
+P0017,Teacher,Tech Park,24500.0,1.5,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Short Commute,Couple,62.0,1020000.0,85000.0,0.28823529411764703
+P0149,It Professional,Riverside,17000.0,11.6,Average,4.0,Yes,Yes,Good,Low,Good,Safety,Single,31.0,300000.0,25000.0,0.68
+P0462,Student,Tech Park,32000.0,0.5,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Public Transport,Family,33.0,912000.0,76000.0,0.42105263157894735
+P0281,Finance,North Avenue,13500.0,3.7,Good,4.0,Yes,Yes,Good,Medium,Good,Affordable Rent,Single,49.0,888000.0,74000.0,0.18243243243243243
+P0176,Healthcare,Tech Park,26000.0,3.0,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Internet Availability,Single,41.0,384000.0,32000.0,0.8125
+P0115,Teacher,Hill View,16000.0,14.5,Poor,4.0,No,Yes,Average,Low,Good,Affordable Rent,Single,22.0,264000.0,22000.0,0.7272727272727273
+P0204,Finance,City Center,27500.0,2.0,Good,3.0,Yes,Yes,Excellent,High,Excellent,Safety,Family,52.0,936000.0,78000.0,0.3525641025641026
+P0415,Healthcare,Riverside,20500.0,15.6,Good,6.0,Yes,Yes,Good,Low,Good,Short Commute,Couple,53.0,852000.0,71000.0,0.2887323943661972
+P0127,Self-Employed,Green Valley,19000.0,11.0,Good,5.0,Yes,Yes,Good,Low,Excellent,Short Commute,Family,53.0,1608000.0,134000.0,0.1417910447761194
+P0389,Government,South Garden,14000.0,14.0,Average,3.0,No,Yes,Average,Low,Average,Public Transport,Couple,67.0,1692000.0,141000.0,0.09929078014184398
+P0093,It Professional,Tech Park,31500.0,3.3,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Safety,Family,18.0,600000.0,50000.0,0.63
+P0116,Government,Riverside,22000.0,8.4,Average,4.0,Yes,Yes,Good,Low,Good,Hospitals,Couple,22.0,888000.0,74000.0,0.2972972972972973
+P0358,Business,North Avenue,17000.0,10.0,Good,4.0,Yes,Yes,Good,Medium,Good,Affordable Rent,Family,28.0,672000.0,56000.0,0.30357142857142855
+P0345,Government,Green Valley,18000.0,4.9,Good,5.0,Yes,Yes,Good,Low,Excellent,Short Commute,Couple,27.0,1896000.0,158000.0,0.11392405063291139
+P0313,Government,Lake View,25000.0,10.350000000000001,Good,5.0,Yes,Yes,Good,Low,Excellent,Affordable Rent,Couple,24.0,1980000.0,165000.0,0.15151515151515152
+P0596,Government,Tech Park,20500.0,7.5,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Short Commute,Couple,35.0,0.0,0.0,inf
+P0560,Teacher,Green Valley,17000.0,3.8,Good,5.0,Yes,Yes,Good,Low,Good,Affordable Rent,Single,23.0,1128000.0,94000.0,0.18085106382978725
+P0206,Student,Green Valley,21000.0,9.2,Good,5.0,Yes,Yes,Good,Low,Excellent,Internet Availability,Couple,43.0,1140000.0,95000.0,0.22105263157894736
+P0247,It Professional,Hill View,17000.0,0.0,Poor,4.0,No,Yes,Average,Low,Excellent,Public Transport,Family,23.0,432000.0,36000.0,0.4722222222222222
+P0567,It Professional,City Center,28000.0,2.9,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Public Transport,Couple,26.0,1320000.0,110000.0,0.2545454545454545
+P0184,Government,Lake View,24500.0,10.2,Good,5.0,Yes,Yes,Good,Low,Excellent,Safety,Single,34.0,1104000.0,92000.0,0.266304347826087
+P0187,Government,Tech Park,25000.0,7.5,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Public Transport,Couple,31.0,1164000.0,97000.0,0.25773195876288657
+P0195,Business,City Center,32500.0,6.7,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Hospitals,Couple,42.0,672000.0,56000.0,0.5803571428571429
+P0349,Teacher,City Center,30500.0,8.0,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Schools,Single,27.0,1104000.0,92000.0,0.33152173913043476
+P0243,It Professional,Lake View,19500.0,15.3,Good,5.0,Yes,Yes,Good,Low,Excellent,Safety,Couple,42.0,1188000.0,99000.0,0.19696969696969696
+P0568,Student,Green Valley,18000.0,7.5,Good,5.0,Yes,Yes,Good,Low,Excellent,Affordable Rent,Couple,28.0,600000.0,50000.0,0.36
+P0072,Teacher,South Garden,13000.0,11.9,Average,3.0,No,Yes,Average,Low,Average,Safety,Family,36.0,156000.0,13000.0,1.0
+P0009,Finance,Green Valley,19500.0,5.9,Good,4.0,Yes,Yes,Good,Medium,Good,Shopping Access,Couple,32.0,1428000.0,119000.0,0.1638655462184874
+P0306,Teacher,City Center,30500.0,0.5,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Safety,Single,65.0,1020000.0,85000.0,0.3588235294117647
+P0058,Teacher,Green Valley,17000.0,6.8,Good,5.0,Yes,Yes,Good,Low,Excellent,Affordable Rent,Couple,32.0,1536000.0,128000.0,0.1328125
+P0087,Government,Riverside,22500.0,10.0,Average,4.0,Yes,Yes,Good,Low,Good,Short Commute,Family,33.0,768000.0,64000.0,0.3515625
+P0051,Teacher,Hill View,15500.0,14.9,Poor,4.0,Yes,Yes,Average,Low,Good,Short Commute,Single,59.0,672000.0,56000.0,0.2767857142857143
+P0122,Government,Green Valley,18500.0,5.5,Good,5.0,Yes,Yes,Good,Low,Excellent,Safety,Family,43.0,1128000.0,94000.0,0.19680851063829788
+P0269,Student,Hill View,15000.0,11.0,Good,4.0,No,Yes,Average,Low,Good,Affordable Rent,Family,21.0,768000.0,64000.0,0.234375
+P0489,Teacher,City Center,22500.0,4.0,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Schools,Family,39.0,660000.0,55000.0,0.4090909090909091
+P0104,Business,Riverside,20500.0,-2.0,Average,4.0,Yes,Yes,Good,Low,Good,Safety,Single,43.0,1668000.0,139000.0,0.1474820143884892
+P0551,Business,Green Valley,18500.0,12.5,Good,5.0,Yes,Yes,Good,Low,Excellent,Affordable Rent,Couple,43.0,624000.0,52000.0,0.3557692307692308
+P0397,It Professional,North Avenue,17000.0,5.6,Good,4.0,Yes,Yes,Good,Medium,Good,Safety,Couple,23.0,2064000.0,172000.0,0.09883720930232558
+P0492,Government,South Garden,14000.0,9.8,Average,3.0,No,Yes,Average,Low,Average,Affordable Rent,Family,17.0,216000.0,18000.0,0.7777777777777778
+P0427,It Professional,Lake View,22500.0,10.6,Good,5.0,No,Yes,Good,Low,Excellent,Schools,Single,31.0,1164000.0,97000.0,0.23195876288659795
+P0284,Self-Employed,Lake View,25000.0,11.6,Good,5.0,Yes,Yes,Good,Low,Excellent,Safety,Couple,21.0,240000.0,20000.0,1.25
+P0318,Government,Tech Park,18500.0,-2.0,Good,4.0,Yes,No,Excellent,Medium,Excellent,Schools,Couple,28.0,552000.0,46000.0,0.40217391304347827
+P0586,It Professional,North Avenue,15500.0,8.9,Good,4.0,Yes,Yes,Good,Medium,Good,Short Commute,Single,39.0,2100000.0,175000.0,0.08857142857142856
+P0222,Teacher,Green Valley,15500.0,4.3,Good,5.0,Yes,Yes,Good,Low,Excellent,Shopping Access,Single,24.0,804000.0,67000.0,0.23134328358208955
+P0426,Teacher,City Center,26500.0,4.1,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Safety,Couple,49.0,348000.0,29000.0,0.9137931034482759
+P0476,Student,Riverside,17000.0,9.6,Average,4.0,Yes,Yes,Good,Low,Good,Public Transport,Single,18.0,156000.0,13000.0,1.3076923076923077
+P0077,Business,North Avenue,16500.0,10.1,Good,4.0,Yes,Yes,Good,Medium,Good,Schools,Couple,55.0,768000.0,64000.0,0.2578125
+P0337,Teacher,Tech Park,27000.0,2.9,Excellent,4.0,Yes,Yes,Excellent,Medium,Excellent,Schools,Family,19.0,1608000.0,134000.0,0.20149253731343283
+P0003,Government,Lake View,25000.0,10.7,Good,5.0,Yes,Yes,Good,Low,Excellent,Public Transport,Single,54.0,756000.0,63000.0,0.3968253968253968
+P0388,Student,Hill View,15500.0,16.9,Poor,4.0,No,Yes,Average,Low,Excellent,Schools,Single,21.0,912000.0,76000.0,0.20394736842105263
+P0577,Healthcare,Lake View,20500.0,9.2,Good,5.0,Yes,Yes,Good,Low,Excellent,Public Transport,Family,53.0,1476000.0,123000.0,0.16666666666666666
+P0236,Finance,Hill View,17000.0,15.2,Poor,4.0,No,Yes,Average,Low,Good,Safety,Couple,42.0,504000.0,42000.0,0.40476190476190477
+P0432,Business,Hill View,17500.0,14.9,Poor,4.0,No,Yes,Average,Low,Good,Safety,Family,20.0,576000.0,48000.0,0.3645833333333333
+P0079,Finance,Riverside,23000.0,16.1,Average,4.0,Yes,Yes,Good,Low,Good,Short Commute,Family,38.0,792000.0,66000.0,0.3484848484848485
+P0399,Teacher,Lake View,22000.0,7.6,Good,5.0,Yes,Yes,Good,Low,Excellent,Safety,Family,17.0,384000.0,32000.0,0.6875
+P0073,Government,South Garden,14000.0,13.5,Average,3.0,No,Yes,Average,Low,Average,Safety,Family,52.0,480000.0,40000.0,0.35
+P0373,Government,Green Valley,17500.0,11.8,Good,5.0,Yes,Yes,Good,Low,Excellent,Internet Availability,Couple,32.0,1716000.0,143000.0,0.12237762237762238
+P0002,Government,City Center,29000.0,4.0,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Public Transport,Family,53.0,1020000.0,85000.0,0.3411764705882353
+P0581,It Professional,South Garden,16000.0,11.2,Good,3.0,No,Yes,Average,Low,Average,Schools,Family,52.0,1728000.0,144000.0,0.1111111111111111
+P0112,Business,City Center,27500.0,4.1,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Short Commute,Single,31.0,204000.0,17000.0,1.6176470588235294
+P0458,Healthcare,Tech Park,28500.0,3.6,Excellent,4.0,Yes,Yes,Excellent,Medium,Excellent,Public Transport,Couple,53.0,768000.0,64000.0,0.4453125
+P0536,Student,Green Valley,13000.0,3.9,Good,5.0,Yes,Yes,Good,Low,Excellent,Short Commute,Single,25.0,252000.0,21000.0,0.6190476190476191
+P0145,It Professional,Riverside,21500.0,11.3,Average,4.0,Yes,Yes,Good,Low,Good,Safety,Single,24.0,780000.0,65000.0,0.33076923076923076
+P0580,Government,Tech Park,21000.0,2.3,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Quiet Environment,Couple,59.0,396000.0,33000.0,0.6363636363636364
+P0374,It Professional,Riverside,19000.0,14.5,Average,4.0,Yes,Yes,Good,Low,Good,Hospitals,Couple,50.0,480000.0,40000.0,0.475
+P0410,Business,Tech Park,24500.0,6.2,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Quiet Environment,Couple,42.0,1020000.0,85000.0,0.28823529411764703
+P0380,It Professional,Hill View,15500.0,16.5,Poor,4.0,No,Yes,Average,Low,Good,Safety,Single,26.0,696000.0,58000.0,0.2672413793103448
+P0081,It Professional,City Center,27500.0,1.9,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Public Transport,Couple,52.0,612000.0,51000.0,0.5392156862745098
+P0407,Finance,Tech Park,26500.0,4.4,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Affordable Rent,Couple,53.0,540000.0,45000.0,0.5888888888888889
+P0161,It Professional,Lake View,24000.0,8.7,Good,5.0,Yes,Yes,Good,Low,Excellent,Short Commute,Single,29.0,1080000.0,90000.0,0.26666666666666666
+P0383,Government,North Avenue,15000.0,6.2,Good,4.0,Yes,Yes,Good,Medium,Good,Short Commute,Single,32.0,1404000.0,117000.0,0.1282051282051282
+P0056,Teacher,City Center,26500.0,1.9,Excellent,3.0,Yes,Yes,Excellent,Medium,Excellent,Safety,Couple,37.0,300000.0,25000.0,1.06
+P0261,Teacher,North Avenue,17500.0,11.3,Good,4.0,Yes,Yes,Good,Medium,Good,Affordable Rent,Family,31.0,1932000.0,161000.0,0.10869565217391304
+P0015,Healthcare,Lake View,21500.0,6.4,Good,5.0,Yes,Yes,Good,Low,Excellent,Hospitals,Single,52.0,288000.0,24000.0,0.8958333333333334
+P0208,Teacher,Hill View,14500.0,17.9,Poor,4.0,No,Yes,Good,Low,Good,Public Transport,Single,26.0,432000.0,36000.0,0.4027777777777778
+P0212,Business,North Avenue,15000.0,5.0,Good,4.0,Yes,Yes,Good,Medium,Good,Affordable Rent,Single,29.0,996000.0,83000.0,0.18072289156626506
+P0057,It Professional,Green Valley,16000.0,10.6,Good,5.0,Yes,Yes,Good,Low,Excellent,Hospitals,Family,52.0,1908000.0,159000.0,0.10062893081761007
+P0055,Teacher,Riverside,17500.0,14.6,Average,4.0,Yes,Yes,Good,Low,Good,Public Transport,Single,20.0,972000.0,81000.0,0.21604938271604937
+P0550,Business,Green Valley,17500.0,11.2,Good,5.0,Yes,Yes,Good,Low,Excellent,Shopping Access,Family,26.0,204000.0,17000.0,1.0294117647058822
+P0294,It Professional,Hill View,14000.0,9.9,Poor,4.0,No,Yes,Average,Low,Good,Short Commute,Single,28.0,696000.0,58000.0,0.2413793103448276
+P0240,Self-Employed,Tech Park,26500.0,2.2,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Hospitals,Couple,51.0,240000.0,20000.0,1.325
+P0540,Student,Riverside,19500.0,10.7,Average,4.0,Yes,Yes,Good,Low,Good,Hospitals,Family,37.0,1812000.0,151000.0,0.1291390728476821
+P0290,Teacher,Tech Park,29000.0,6.7,Excellent,4.0,Yes,No,Good,Medium,Excellent,Shopping Access,Single,62.0,408000.0,34000.0,0.8529411764705882
+P0038,Healthcare,Tech Park,26500.0,4.7,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Public Transport,Couple,35.0,180000.0,15000.0,1.7666666666666666
+P0031,Business,City Center,30000.0,2.9,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Safety,Family,18.0,516000.0,43000.0,0.6976744186046512
+P0569,Government,Tech Park,26000.0,4.9,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Public Transport,Single,35.0,144000.0,12000.0,2.1666666666666665
+P0006,Student,Green Valley,18000.0,6.5,Good,5.0,Yes,Yes,Good,Low,Excellent,Public Transport,Couple,42.0,1056000.0,88000.0,0.20454545454545456
+P0219,It Professional,South Garden,12500.0,14.5,Average,3.0,No,Yes,Average,Low,Average,Shopping Access,Single,34.0,924000.0,77000.0,0.16233766233766234
+P0328,It Professional,Lake View,27000.0,10.350000000000001,Good,5.0,Yes,Yes,Good,Low,Excellent,Schools,Couple,63.0,1176000.0,98000.0,0.2755102040816326
+P0275,It Professional,North Avenue,17500.0,7.9,Good,4.0,Yes,Yes,Good,Medium,Good,Short Commute,Couple,46.0,1176000.0,98000.0,0.17857142857142858
+P0165,Student,City Center,27000.0,2.9,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Hospitals,Single,34.0,1140000.0,95000.0,0.28421052631578947
+P0280,Self-Employed,Lake View,23500.0,5.5,Good,5.0,Yes,Yes,Good,Low,Excellent,Safety,Couple,28.0,852000.0,71000.0,0.33098591549295775
+P0512,It Professional,Tech Park,24000.0,0.9,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Short Commute,Single,28.0,492000.0,41000.0,0.5853658536585366
+P0102,Finance,Hill View,17000.0,14.0,Poor,4.0,No,Yes,Average,Low,Good,Schools,Single,46.0,2016000.0,168000.0,0.10119047619047619
+P0120,Self-Employed,Riverside,18000.0,14.8,Average,4.0,Yes,Yes,Good,Low,Good,Short Commute,Family,44.0,1656000.0,138000.0,0.13043478260869565
+P0042,Teacher,Hill View,15500.0,11.5,Poor,4.0,No,Yes,Average,Medium,Good,Schools,Family,35.0,780000.0,65000.0,0.23846153846153847
+P0004,Healthcare,North Avenue,15500.0,5.0,Good,4.0,Yes,Yes,Good,Medium,Good,Schools,Family,53.0,828000.0,69000.0,0.2246376811594203
+P0549,Teacher,Tech Park,26000.0,2.4,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Public Transport,Couple,20.0,1332000.0,111000.0,0.23423423423423423
+P0103,Teacher,Tech Park,25000.0,2.7,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Affordable Rent,Family,50.0,1980000.0,165000.0,0.15151515151515152
+P0169,Student,Green Valley,21500.0,9.6,Good,5.0,Yes,Yes,Excellent,Low,Excellent,Internet Availability,Family,47.0,1092000.0,91000.0,0.23626373626373626
+P0205,It Professional,City Center,22000.0,3.1,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Safety,Family,25.0,528000.0,44000.0,0.5
+P0110,Self-Employed,Hill View,13000.0,20.1,Poor,4.0,No,Yes,Average,Low,Good,Affordable Rent,Family,40.0,1692000.0,141000.0,0.09219858156028368
+P0114,Business,North Avenue,17500.0,9.7,Good,4.0,Yes,Yes,Good,Medium,Good,Affordable Rent,Family,34.0,1080000.0,90000.0,0.19444444444444445
+P0259,It Professional,Tech Park,24000.0,4.2,Good,4.0,Yes,No,Excellent,Medium,Excellent,Public Transport,Family,44.0,420000.0,35000.0,0.6857142857142857
+P0449,Finance,Lake View,22500.0,12.2,Good,5.0,Yes,Yes,Good,Low,Excellent,Affordable Rent,Couple,42.0,1152000.0,96000.0,0.234375
+P0386,Finance,Tech Park,24500.0,0.5,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Internet Availability,Couple,27.0,420000.0,35000.0,0.7
+P0493,Business,Green Valley,20500.0,10.1,Good,5.0,Yes,Yes,Good,Low,Excellent,Safety,Family,43.0,732000.0,61000.0,0.3360655737704918
+P0547,Student,City Center,28000.0,6.5,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Hospitals,Couple,28.0,1476000.0,123000.0,0.22764227642276422
+P0517,Healthcare,Lake View,21500.0,13.6,Good,5.0,Yes,Yes,Good,Low,Excellent,Safety,Couple,21.0,156000.0,13000.0,1.6538461538461537
+P0097,Self-Employed,Green Valley,20000.0,6.4,Good,5.0,Yes,Yes,Good,Low,Excellent,Public Transport,Family,22.0,504000.0,42000.0,0.47619047619047616
+P0152,Finance,Tech Park,28500.0,1.4,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Schools,Family,47.0,900000.0,75000.0,0.38
+P0356,Teacher,North Avenue,16500.0,6.4,Good,4.0,Yes,Yes,Good,Medium,Good,Schools,Couple,22.0,660000.0,55000.0,0.3
+P0016,Self-Employed,South Garden,14000.0,15.0,Average,3.0,No,Yes,Average,Low,Average,Hospitals,Couple,23.0,888000.0,74000.0,0.1891891891891892
+P0382,Self-Employed,North Avenue,19000.0,8.4,Good,4.0,Yes,Yes,Good,Medium,Good,Shopping Access,Couple,29.0,492000.0,41000.0,0.4634146341463415
+P0466,Business,Green Valley,19500.0,4.8,Good,5.0,Yes,Yes,Good,Low,Excellent,Safety,Couple,46.0,492000.0,41000.0,0.47560975609756095
+P0333,It Professional,Hill View,14500.0,17.9,Poor,4.0,No,Yes,Average,Low,Good,Safety,Couple,51.0,1788000.0,149000.0,0.09731543624161074
+P0381,It Professional,Hill View,15000.0,16.6,Poor,4.0,No,Yes,Average,Low,Good,Safety,Family,27.0,540000.0,45000.0,0.3333333333333333
+P0367,Business,Hill View,14000.0,17.2,Poor,4.0,No,Yes,Average,Low,Good,Short Commute,Single,27.0,156000.0,13000.0,1.0769230769230769
+P0598,Student,City Center,28000.0,5.5,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Schools,Single,34.0,528000.0,44000.0,0.6363636363636364
+P0092,It Professional,Green Valley,18000.0,7.2,Good,5.0,Yes,Yes,Good,Low,Excellent,Quiet Environment,Couple,21.0,768000.0,64000.0,0.28125
+P0291,Healthcare,Riverside,25500.0,12.9,Average,4.0,Yes,Yes,Good,Low,Good,Hospitals,Couple,61.0,384000.0,32000.0,0.796875
+P0429,Business,Green Valley,18500.0,17.0,Good,5.0,Yes,Yes,Good,Low,Excellent,Shopping Access,Single,27.0,372000.0,31000.0,0.5967741935483871
+P0008,Healthcare,City Center,29500.0,4.6,Good,3.0,Yes,Yes,Excellent,High,Excellent,Public Transport,Couple,33.0,216000.0,18000.0,1.6388888888888888
+P0520,It Professional,Green Valley,16500.0,5.7,Good,5.0,Yes,Yes,Good,Low,Excellent,Quiet Environment,Family,28.0,240000.0,20000.0,0.825
+P0469,Business,Lake View,22000.0,9.8,Good,5.0,Yes,Yes,Good,Low,Excellent,Schools,Single,21.0,492000.0,41000.0,0.5365853658536586
+P0182,It Professional,Green Valley,17000.0,9.3,Good,5.0,Yes,Yes,Good,Low,Excellent,Short Commute,Single,45.0,948000.0,79000.0,0.21518987341772153
+P0234,Government,Hill View,16500.0,14.3,Poor,4.0,No,Yes,Average,Low,Good,Public Transport,Family,46.0,1092000.0,91000.0,0.1813186813186813
+P0465,Self-Employed,Lake View,20000.0,6.6,Good,5.0,Yes,Yes,Good,Low,Excellent,Short Commute,Couple,21.0,972000.0,81000.0,0.24691358024691357
+P0454,Teacher,Riverside,17000.0,13.4,Average,4.0,Yes,Yes,Good,Low,Good,Affordable Rent,Family,26.0,900000.0,75000.0,0.22666666666666666
+P0539,Self-Employed,Hill View,14000.0,13.5,Poor,4.0,No,Yes,Average,Low,Good,Affordable Rent,Couple,18.0,396000.0,33000.0,0.42424242424242425
+P0166,Teacher,Tech Park,26000.0,2.4,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Affordable Rent,Family,34.0,888000.0,74000.0,0.35135135135135137
+P0146,It Professional,South Garden,14500.0,17.1,Average,3.0,No,Yes,Average,Low,Average,Affordable Rent,Family,40.0,1944000.0,162000.0,0.08950617283950617
+P0237,Student,South Garden,13000.0,10.8,Average,3.0,No,Yes,Average,Low,Average,Public Transport,Couple,30.0,948000.0,79000.0,0.16455696202531644
+P0344,Teacher,North Avenue,18000.0,8.9,Good,4.0,Yes,Yes,Good,Medium,Good,Short Commute,Couple,34.0,2052000.0,171000.0,0.10526315789473684
+P0322,It Professional,Hill View,13500.0,12.1,Poor,4.0,No,Yes,Average,Low,Good,Safety,Family,25.0,852000.0,71000.0,0.19014084507042253
+P0191,Teacher,Tech Park,26000.0,0.5,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Quiet Environment,Couple,25.0,204000.0,17000.0,1.5294117647058822
+P0301,Teacher,Lake View,20000.0,10.3,Good,5.0,Yes,Yes,Good,Low,Excellent,Safety,Couple,33.0,1752000.0,146000.0,0.136986301369863
+P0530,Student,Hill View,14500.0,16.5,Poor,4.0,No,Yes,Average,Low,Good,Safety,Couple,21.0,264000.0,22000.0,0.6590909090909091
+P0359,Healthcare,Green Valley,19000.0,15.1,Good,5.0,Yes,Yes,Good,Low,Excellent,Shopping Access,Single,39.0,504000.0,42000.0,0.4523809523809524
+P0559,Student,Riverside,22500.0,11.2,Average,4.0,Yes,Yes,Good,Low,Good,Safety,Single,32.0,252000.0,21000.0,1.0714285714285714
+P0488,It Professional,Green Valley,21000.0,7.5,Good,5.0,Yes,Yes,Good,Low,Excellent,Hospitals,Single,20.0,1176000.0,98000.0,0.21428571428571427
+P0324,Student,City Center,27000.0,2.8,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Public Transport,Single,36.0,1104000.0,92000.0,0.29347826086956524
+P0283,Student,North Avenue,17000.0,7.9,Good,4.0,Yes,Yes,Good,Medium,Good,Hospitals,Single,62.0,180000.0,15000.0,1.1333333333333333
+P0518,Teacher,Lake View,17000.0,8.6,Good,5.0,Yes,Yes,Good,Low,Excellent,Affordable Rent,Family,32.0,948000.0,79000.0,0.21518987341772153
+P0544,Government,Tech Park,25000.0,5.9,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Affordable Rent,Family,22.0,528000.0,44000.0,0.5681818181818182
+P0588,Government,Riverside,20500.0,9.8,Average,4.0,Yes,Yes,Good,Low,Good,Public Transport,Single,54.0,804000.0,67000.0,0.30597014925373134
+P0209,Student,Riverside,20000.0,13.7,Average,4.0,Yes,Yes,Good,Low,Good,Affordable Rent,Single,27.0,564000.0,47000.0,0.425531914893617
+P0197,Student,Tech Park,27500.0,2.8,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Public Transport,Single,19.0,168000.0,14000.0,1.9642857142857142
+P0078,Government,City Center,29000.0,4.7,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Quiet Environment,Single,44.0,1416000.0,118000.0,0.2457627118644068
+P0486,Student,Tech Park,27000.0,3.9,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Safety,Single,43.0,168000.0,14000.0,1.9285714285714286
+P0378,Teacher,Tech Park,23000.0,2.9,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Affordable Rent,Single,28.0,600000.0,50000.0,0.46
+P0201,Government,Lake View,22000.0,16.7,Good,5.0,Yes,Yes,Good,Low,Excellent,Affordable Rent,Couple,41.0,600000.0,50000.0,0.44
+P0502,Healthcare,South Garden,15500.0,17.7,Average,3.0,No,Yes,Average,Low,Average,Affordable Rent,Single,44.0,264000.0,22000.0,0.7045454545454546
+P0007,Government,Hill View,12000.0,17.3,Poor,4.0,No,Yes,Average,Low,Good,Safety,Family,20.0,816000.0,68000.0,0.17647058823529413
+P0196,Finance,Green Valley,17000.0,6.2,Good,5.0,Yes,Yes,Good,Low,Excellent,Short Commute,Single,52.0,1284000.0,107000.0,0.1588785046728972
+P0266,Business,Green Valley,16500.0,7.2,Good,5.0,Yes,Yes,Good,Low,Excellent,Safety,Couple,34.0,600000.0,50000.0,0.33
+P0491,Government,Lake View,24500.0,12.0,Good,5.0,Yes,Yes,Good,Low,Excellent,Quiet Environment,Couple,46.0,768000.0,64000.0,0.3828125
+P0248,Business,Hill View,16500.0,14.0,Poor,4.0,No,Yes,Average,Low,Good,Public Transport,Single,22.0,996000.0,83000.0,0.19879518072289157
+P0256,Government,North Avenue,15000.0,8.3,Good,6.0,Yes,Yes,Good,Medium,Good,Affordable Rent,Single,21.0,1200000.0,100000.0,0.15
+P0484,Finance,City Center,24000.0,0.5,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Affordable Rent,Couple,34.0,708000.0,59000.0,0.4067796610169492
+P0144,Business,South Garden,13500.0,11.2,Average,3.0,No,Yes,Average,Low,Average,Quiet Environment,Single,45.0,960000.0,80000.0,0.16875
+P0139,Teacher,Lake View,26000.0,9.4,Good,5.0,Yes,Yes,Good,Low,Excellent,Affordable Rent,Single,19.0,948000.0,79000.0,0.3291139240506329
+P0226,Business,Tech Park,24500.0,5.9,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Hospitals,Family,65.0,192000.0,16000.0,1.53125
+P0012,It Professional,Green Valley,19500.0,12.2,Good,5.0,Yes,Yes,Good,Low,Excellent,Shopping Access,Single,37.0,1104000.0,92000.0,0.21195652173913043
+P0323,Business,City Center,23000.0,7.5,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Affordable Rent,Family,45.0,564000.0,47000.0,0.48936170212765956
+P0562,It Professional,Green Valley,16500.0,6.3,Good,5.0,Yes,Yes,Good,Low,Excellent,Affordable Rent,Couple,23.0,1740000.0,145000.0,0.11379310344827587
+P0215,It Professional,City Center,33500.0,4.8,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Affordable Rent,Family,33.0,1392000.0,116000.0,0.28879310344827586
+P0593,Business,Lake View,22500.0,8.4,Good,5.0,Yes,Yes,Good,Low,Excellent,Safety,Single,35.0,228000.0,19000.0,1.1842105263157894
+P0231,Student,Tech Park,24000.0,2.4,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Safety,Couple,24.0,360000.0,30000.0,0.8
+P0513,It Professional,North Avenue,17500.0,12.2,Good,4.0,Yes,Yes,Good,Medium,Good,Internet Availability,Single,24.0,864000.0,72000.0,0.24305555555555555
+P0158,Business,South Garden,14000.0,15.3,Average,3.0,No,Yes,Average,Low,Average,Public Transport,Family,28.0,912000.0,76000.0,0.18421052631578946
+P0330,Student,North Avenue,17000.0,9.3,Good,4.0,Yes,Yes,Good,Medium,Good,Affordable Rent,Family,32.0,888000.0,74000.0,0.22972972972972974
+P0100,Business,City Center,26500.0,6.3,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Hospitals,Couple,23.0,768000.0,64000.0,0.4140625
+P0134,Business,North Avenue,14000.0,11.9,Good,4.0,Yes,Yes,Good,Medium,Good,Short Commute,Couple,25.0,360000.0,30000.0,0.4666666666666667
+P0159,It Professional,Riverside,19500.0,12.3,Average,4.0,Yes,Yes,Good,Low,Good,Safety,Couple,19.0,852000.0,71000.0,0.2746478873239437
+P0043,Student,Green Valley,20500.0,11.0,Good,5.0,Yes,Yes,Good,Low,Excellent,Hospitals,Single,43.0,948000.0,79000.0,0.25949367088607594
+P0473,Business,City Center,30000.0,5.2,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Hospitals,Couple,38.0,216000.0,18000.0,1.6666666666666667
+P0041,Teacher,Riverside,20000.0,13.8,Average,4.0,Yes,Yes,Good,Low,Good,Hospitals,Single,53.0,264000.0,22000.0,0.9090909090909091
+P0019,Finance,Tech Park,26000.0,2.8,Excellent,4.0,Yes,No,Excellent,Low,Excellent,Short Commute,Single,37.0,1128000.0,94000.0,0.2765957446808511
+P0519,Student,Green Valley,22000.0,9.0,Good,5.0,Yes,Yes,Good,Low,Excellent,Safety,Couple,27.0,228000.0,19000.0,1.1578947368421053
+P0199,It Professional,Green Valley,18500.0,10.2,Good,4.0,Yes,Yes,Good,Low,Excellent,Affordable Rent,Family,23.0,804000.0,67000.0,0.27611940298507465
+P0504,Healthcare,North Avenue,12000.0,5.9,Good,4.0,Yes,Yes,Good,Medium,Good,Affordable Rent,Couple,24.0,300000.0,25000.0,0.48
+P0584,Teacher,Green Valley,16500.0,2.4,Good,5.0,Yes,Yes,Good,Low,Excellent,Affordable Rent,Family,47.0,708000.0,59000.0,0.2796610169491525
+P0013,Student,South Garden,14000.0,9.8,Average,3.0,No,Yes,Average,Low,Excellent,Internet Availability,Couple,41.0,1536000.0,128000.0,0.109375
+P0128,Self-Employed,North Avenue,16000.0,13.6,Good,4.0,Yes,Yes,Good,Medium,Good,Safety,Single,49.0,1980000.0,165000.0,0.09696969696969697
+P0190,Student,North Avenue,19500.0,7.3,Good,4.0,Yes,Yes,Good,Medium,Good,Safety,Family,34.0,1752000.0,146000.0,0.13356164383561644
+P0235,Teacher,Hill View,16000.0,14.5,Poor,4.0,No,Yes,Average,Low,Good,Schools,Family,31.0,804000.0,67000.0,0.23880597014925373
+P0310,It Professional,Tech Park,25000.0,2.3,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Public Transport,Couple,22.0,924000.0,77000.0,0.3246753246753247
+P0192,It Professional,North Avenue,18000.0,11.6,Good,4.0,Yes,Yes,Good,Medium,Good,Schools,Couple,51.0,768000.0,64000.0,0.28125
+P0133,Business,City Center,29000.0,4.3,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Quiet Environment,Family,26.0,552000.0,46000.0,0.6304347826086957
+P0387,Student,Lake View,26000.0,9.8,Good,5.0,Yes,Yes,Good,Low,Excellent,Affordable Rent,Couple,21.0,276000.0,23000.0,1.1304347826086956
+P0338,It Professional,Green Valley,18000.0,10.4,Good,5.0,Yes,Yes,Good,Low,Excellent,Schools,Couple,39.0,756000.0,63000.0,0.2857142857142857
+P0321,Self-Employed,Green Valley,19500.0,10.3,Good,5.0,Yes,Yes,Good,Low,Excellent,Shopping Access,Couple,37.0,168000.0,14000.0,1.3928571428571428
+P0036,Finance,City Center,27500.0,4.3,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Safety,Single,40.0,720000.0,60000.0,0.4583333333333333
+P0582,Self-Employed,Riverside,19000.0,13.2,Average,4.0,Yes,Yes,Good,Low,Good,Short Commute,Single,27.0,348000.0,29000.0,0.6551724137931034
+P0442,Self-Employed,North Avenue,18500.0,6.5,Good,4.0,Yes,Yes,Good,Medium,Good,Safety,Couple,39.0,564000.0,47000.0,0.39361702127659576
+P0594,Business,Riverside,18500.0,12.7,Average,4.0,Yes,Yes,Good,Low,Good,Internet Availability,Couple,21.0,792000.0,66000.0,0.2803030303030303
+P0452,Student,Lake View,23000.0,12.3,Good,5.0,Yes,Yes,Good,Low,Good,Safety,Family,62.0,912000.0,76000.0,0.3026315789473684
+P0384,Teacher,Riverside,19000.0,7.2,Average,4.0,Yes,Yes,Good,Low,Good,Safety,Couple,24.0,780000.0,65000.0,0.2923076923076923
+P0157,Teacher,Hill View,12000.0,15.1,Poor,6.0,No,Yes,Average,Low,Good,Schools,Family,59.0,144000.0,12000.0,1.0
+P0406,Student,Green Valley,13500.0,7.9,Average,3.0,No,Yes,Average,Low,Average,Hospitals,Family,32.0,336000.0,28000.0,0.48214285714285715
+P0132,It Professional,Tech Park,25500.0,2.7,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Affordable Rent,Couple,47.0,432000.0,36000.0,0.7083333333333334
+P0478,It Professional,Green Valley,21000.0,7.9,Good,5.0,Yes,Yes,Good,Low,Excellent,Internet Availability,Family,30.0,516000.0,43000.0,0.4883720930232558
+P0257,Business,Green Valley,15500.0,4.9,Good,5.0,Yes,Yes,Good,Low,Excellent,Affordable Rent,Family,33.0,1164000.0,97000.0,0.15979381443298968
+P0088,Teacher,Riverside,23500.0,17.2,Average,4.0,Yes,Yes,Good,Low,Good,Quiet Environment,Family,42.0,1584000.0,132000.0,0.17803030303030304
+P0137,It Professional,Lake View,17500.0,6.6,Good,5.0,Yes,Yes,Good,Low,Excellent,Public Transport,Couple,32.0,1020000.0,85000.0,0.20588235294117646
+P0533,It Professional,Lake View,22000.0,12.1,Good,5.0,Yes,Yes,Good,Low,Excellent,Safety,Single,18.0,1236000.0,103000.0,0.21359223300970873
+P0585,Business,Riverside,16000.0,11.2,Average,4.0,Yes,Yes,Good,Low,Good,Safety,Single,63.0,360000.0,30000.0,0.5333333333333333
+P0214,It Professional,Lake View,24000.0,11.4,Good,5.0,Yes,Yes,Good,Low,Excellent,Schools,Couple,33.0,492000.0,41000.0,0.5853658536585366
+P0011,Student,North Avenue,17500.0,10.9,Good,4.0,Yes,Yes,Good,Medium,Good,Quiet Environment,Family,39.0,180000.0,15000.0,1.1666666666666667
+P0274,Healthcare,Tech Park,24500.0,1.1,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Shopping Access,Single,26.0,324000.0,27000.0,0.9074074074074074
+P0277,It Professional,Tech Park,25000.0,5.1,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Affordable Rent,Family,28.0,1056000.0,88000.0,0.2840909090909091
+P0574,It Professional,Tech Park,30500.0,6.8,Excellent,4.0,Yes,No,Excellent,Low,Excellent,Schools,Family,28.0,1152000.0,96000.0,0.3177083333333333
+P0532,Student,Lake View,22000.0,10.4,Good,5.0,Yes,Yes,Good,Low,Excellent,Short Commute,Couple,25.0,1056000.0,88000.0,0.25
+P0173,It Professional,Tech Park,26500.0,4.5,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Short Commute,Couple,36.0,372000.0,31000.0,0.8548387096774194
+P0525,Healthcare,City Center,28000.0,1.4,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Safety,Single,32.0,960000.0,80000.0,0.35
+P0108,Student,Green Valley,18000.0,5.0,Good,5.0,Yes,Yes,Good,Low,Excellent,Schools,Couple,50.0,684000.0,57000.0,0.3157894736842105
+P0572,Business,Hill View,13500.0,13.5,Poor,4.0,No,Yes,Average,Low,Good,Public Transport,Single,41.0,384000.0,32000.0,0.421875
+P0332,It Professional,Hill View,15500.0,13.3,Poor,4.0,No,Yes,Average,Low,Good,Short Commute,Single,33.0,852000.0,71000.0,0.21830985915492956
+P0409,It Professional,Green Valley,19000.0,5.4,Good,5.0,Yes,Yes,Good,Low,Excellent,Hospitals,Single,27.0,228000.0,19000.0,1.0
+P0521,Teacher,North Avenue,17500.0,13.6,Good,4.0,Yes,Yes,Excellent,Medium,Good,Schools,Family,35.0,768000.0,64000.0,0.2734375
+P0546,Student,South Garden,15500.0,17.6,Average,3.0,No,Yes,Average,Low,Average,Quiet Environment,Single,40.0,432000.0,36000.0,0.4305555555555556
+P0331,Teacher,North Avenue,16500.0,8.8,Good,4.0,Yes,Yes,Good,Medium,Good,Public Transport,Single,37.0,168000.0,14000.0,1.1785714285714286
+P0095,It Professional,Tech Park,27000.0,6.3,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Public Transport,Single,30.0,804000.0,67000.0,0.40298507462686567
+P0361,It Professional,City Center,24500.0,1.9,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Public Transport,Family,22.0,1056000.0,88000.0,0.2784090909090909
+P0129,Business,Tech Park,28000.0,4.0,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Affordable Rent,Family,23.0,1848000.0,154000.0,0.18181818181818182
+P0558,Student,Hill View,11000.0,17.2,Poor,4.0,No,Yes,Average,Low,Good,Affordable Rent,Family,34.0,768000.0,64000.0,0.171875
+P0514,Teacher,City Center,27500.0,3.8,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Schools,Family,53.0,204000.0,17000.0,1.6176470588235294
+P0498,Healthcare,Lake View,19500.0,12.3,Good,5.0,Yes,Yes,Good,Low,Excellent,Affordable Rent,Single,38.0,864000.0,72000.0,0.2708333333333333
+P0496,Self-Employed,City Center,30500.0,4.7,Excellent,3.0,Yes,Yes,Excellent,Low,Excellent,Hospitals,Single,26.0,1512000.0,126000.0,0.24206349206349206
+P0497,Government,City Center,19500.0,1.7,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Affordable Rent,Single,22.0,408000.0,34000.0,0.5735294117647058
+P0025,Business,Green Valley,18500.0,7.6,Good,5.0,Yes,Yes,Good,Low,Excellent,Public Transport,Family,39.0,2160000.0,180000.0,0.10277777777777777
+P0395,Business,Tech Park,28000.0,6.4,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Safety,Single,53.0,576000.0,48000.0,0.5833333333333334
+P0123,Self-Employed,South Garden,12500.0,15.1,Average,3.0,No,Yes,Average,Low,Average,Affordable Rent,Single,34.0,768000.0,64000.0,0.1953125
+P0194,Government,Riverside,17000.0,11.2,Average,4.0,Yes,Yes,Good,Low,Good,Internet Availability,Couple,38.0,1104000.0,92000.0,0.18478260869565216
+P0107,Healthcare,North Avenue,19500.0,4.1,Good,4.0,Yes,Yes,Good,Medium,Good,Affordable Rent,Single,34.0,828000.0,69000.0,0.2826086956521739
+P0499,Healthcare,Lake View,23000.0,8.2,Good,5.0,Yes,Yes,Good,Low,Excellent,Safety,Couple,20.0,1932000.0,161000.0,0.14285714285714285
+P0091,Student,Tech Park,31500.0,0.5,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Shopping Access,Couple,34.0,156000.0,13000.0,2.423076923076923
+P0589,Student,City Center,28000.0,5.6,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Public Transport,Single,44.0,672000.0,56000.0,0.5
+P0276,It Professional,Riverside,15500.0,11.2,Average,4.0,Yes,Yes,Good,Low,Good,Safety,Single,39.0,1176000.0,98000.0,0.15816326530612246
+P0299,It Professional,Hill View,15500.0,15.3,Poor,4.0,No,Yes,Average,Low,Good,Schools,Couple,33.0,180000.0,15000.0,1.0333333333333334
+P0456,Student,Green Valley,15500.0,12.7,Good,5.0,Yes,Yes,Good,Low,Excellent,Shopping Access,Couple,57.0,936000.0,78000.0,0.1987179487179487
+P0064,Healthcare,Tech Park,26500.0,7.1,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Short Commute,Couple,46.0,1320000.0,110000.0,0.2409090909090909
+P0082,Student,North Avenue,14500.0,3.8,Good,4.0,Yes,Yes,Good,Medium,Good,Short Commute,Single,67.0,432000.0,36000.0,0.4027777777777778
+P0347,Teacher,Hill View,14500.0,16.2,Poor,4.0,No,Yes,Average,Low,Good,Affordable Rent,Family,39.0,1164000.0,97000.0,0.14948453608247422
+P0061,Business,Hill View,17000.0,18.5,Poor,4.0,No,Yes,Average,Low,Good,Affordable Rent,Single,26.0,552000.0,46000.0,0.3695652173913043
+P0106,Government,South Garden,15000.0,17.2,Average,3.0,No,Yes,Average,Low,Average,Internet Availability,Single,34.0,1128000.0,94000.0,0.1595744680851064
+P0171,Finance,Lake View,21000.0,15.7,Good,5.0,Yes,Yes,Good,Low,Excellent,Schools,Family,41.0,1440000.0,120000.0,0.175
+P0278,It Professional,Lake View,25500.0,16.2,Good,5.0,Yes,Yes,Good,Low,Excellent,Internet Availability,Couple,37.0,156000.0,13000.0,1.9615384615384615
+P0065,It Professional,City Center,27500.0,3.7,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Short Commute,Single,26.0,660000.0,55000.0,0.5
+P0576,It Professional,Riverside,21000.0,14.6,Average,4.0,Yes,Yes,Good,Low,Good,Safety,Single,25.0,672000.0,56000.0,0.375
+P0508,Student,Green Valley,17000.0,0.7,Good,5.0,Yes,Yes,Good,Low,Excellent,Public Transport,Family,30.0,1140000.0,95000.0,0.17894736842105263
+P0075,Self-Employed,Riverside,20000.0,13.5,Average,4.0,Yes,Yes,Good,Low,Good,Affordable Rent,Couple,37.0,216000.0,18000.0,1.1111111111111112
+P0307,It Professional,Riverside,23000.0,11.5,Average,4.0,Yes,Yes,Good,Low,Good,Quiet Environment,Family,34.0,972000.0,81000.0,0.2839506172839506
+P0286,It Professional,Green Valley,19500.0,7.0,Good,5.0,Yes,Yes,Good,Low,Excellent,Safety,Single,63.0,1056000.0,88000.0,0.2215909090909091
+P0126,Government,Green Valley,17500.0,12.4,Good,5.0,Yes,Yes,Good,Low,Excellent,Schools,Family,30.0,600000.0,50000.0,0.35
+P0339,Student,North Avenue,16000.0,8.3,Good,4.0,Yes,Yes,Good,Medium,Good,Public Transport,Single,39.0,240000.0,20000.0,0.8
+P0300,Healthcare,South Garden,13500.0,14.4,Average,3.0,No,Yes,Average,Low,Average,Affordable Rent,Couple,34.0,168000.0,14000.0,0.9642857142857143
+P0434,It Professional,Hill View,14000.0,17.7,Poor,4.0,No,Yes,Average,Low,Good,Short Commute,Single,24.0,840000.0,70000.0,0.2
+P0303,Teacher,City Center,33000.0,2.4,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Public Transport,Family,26.0,540000.0,45000.0,0.7333333333333333
+P0534,Business,City Center,37500.0,6.3,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Schools,Family,39.0,600000.0,50000.0,0.75
+P0537,Teacher,Riverside,21500.0,10.9,Average,4.0,No,Yes,Good,Low,Good,Short Commute,Single,20.0,396000.0,33000.0,0.6515151515151515
+P0543,Teacher,Hill View,20000.0,14.0,Poor,4.0,No,Yes,Average,Low,Good,Short Commute,Family,37.0,408000.0,34000.0,0.5882352941176471
+P0316,Government,Green Valley,16000.0,12.1,Good,5.0,Yes,Yes,Good,Low,Excellent,Schools,Single,29.0,1176000.0,98000.0,0.16326530612244897
+P0249,It Professional,North Avenue,15000.0,7.4,Good,4.0,Yes,Yes,Good,Medium,Good,Safety,Single,49.0,432000.0,36000.0,0.4166666666666667
+P0597,Teacher,Green Valley,19000.0,7.7,Good,5.0,Yes,Yes,Good,Low,Excellent,Schools,Family,18.0,744000.0,62000.0,0.3064516129032258
+P0163,Government,Tech Park,30500.0,6.8,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Shopping Access,Single,25.0,144000.0,12000.0,2.5416666666666665
+P0251,Business,Hill View,14000.0,18.8,Poor,4.0,No,Yes,Average,Low,Good,Quiet Environment,Family,31.0,1080000.0,90000.0,0.15555555555555556
+P0089,Healthcare,Riverside,19500.0,12.4,Average,4.0,Yes,Yes,Good,Low,Good,Affordable Rent,Couple,39.0,492000.0,41000.0,0.47560975609756095
+P0053,Teacher,North Avenue,18000.0,10.6,Good,4.0,Yes,Yes,Good,Medium,Good,Public Transport,Couple,51.0,468000.0,39000.0,0.46153846153846156
+P0529,It Professional,Tech Park,26500.0,4.8,Excellent,4.0,Yes,No,Excellent,Medium,Good,Shopping Access,Couple,25.0,1032000.0,86000.0,0.3081395348837209
+P0319,Finance,Green Valley,19000.0,8.2,Good,5.0,Yes,Yes,Good,Low,Excellent,Quiet Environment,Family,36.0,228000.0,19000.0,1.0
+P0400,Teacher,Lake View,22000.0,10.0,Good,5.0,Yes,Yes,Good,Low,Excellent,Schools,Single,48.0,1404000.0,117000.0,0.18803418803418803
+P0510,Finance,Tech Park,24500.0,9.2,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Quiet Environment,Couple,25.0,636000.0,53000.0,0.46226415094339623
+P0563,Government,Green Valley,15500.0,7.9,Good,5.0,Yes,Yes,Good,Low,Excellent,Hospitals,Single,29.0,900000.0,75000.0,0.20666666666666667
+P0138,Government,City Center,35000.0,7.4,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Shopping Access,Single,46.0,1416000.0,118000.0,0.2966101694915254
+P0555,Teacher,Green Valley,18000.0,7.5,Good,5.0,Yes,Yes,Good,Low,Excellent,Affordable Rent,Single,18.0,804000.0,67000.0,0.26865671641791045
+P0570,Teacher,City Center,26500.0,4.6,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Public Transport,Family,23.0,984000.0,82000.0,0.3231707317073171
+P0047,It Professional,Lake View,19500.0,9.2,Good,5.0,Yes,Yes,Good,Low,Excellent,Safety,Single,63.0,1740000.0,145000.0,0.13448275862068965
+P0506,It Professional,City Center,32500.0,2.4,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Public Transport,Single,54.0,228000.0,19000.0,1.7105263157894737
+P0351,Healthcare,South Garden,11500.0,13.7,Average,3.0,No,Yes,Average,Low,Average,Affordable Rent,Couple,30.0,444000.0,37000.0,0.3108108108108108
+P0566,Healthcare,Green Valley,18000.0,3.8,Good,5.0,Yes,Yes,Good,Low,Excellent,Schools,Couple,20.0,2124000.0,177000.0,0.1016949152542373
+P0054,Student,Green Valley,17500.0,14.8,Good,5.0,Yes,Yes,Good,Low,Excellent,Schools,Single,42.0,264000.0,22000.0,0.7954545454545454
+P0141,It Professional,Hill View,14500.0,10.5,Poor,4.0,No,Yes,Average,Low,Good,Safety,Couple,34.0,816000.0,68000.0,0.21323529411764705
+P0342,It Professional,City Center,30500.0,6.9,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Public Transport,Couple,44.0,1272000.0,106000.0,0.28773584905660377
+P0181,Self-Employed,North Avenue,14500.0,7.0,Good,4.0,Yes,Yes,Good,Medium,Good,Safety,Family,25.0,1164000.0,97000.0,0.14948453608247422
+P0005,Teacher,South Garden,19500.0,13.2,Average,3.0,No,Yes,Average,Low,Average,Quiet Environment,Couple,31.0,2052000.0,171000.0,0.11403508771929824
+P0483,Student,Hill View,16000.0,12.5,Poor,4.0,Yes,Yes,Average,Low,Good,Public Transport,Couple,30.0,204000.0,17000.0,0.9411764705882353
+P0327,It Professional,City Center,32500.0,2.5,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Hospitals,Couple,54.0,288000.0,24000.0,1.3541666666666667
+P0066,Finance,Green Valley,21000.0,11.8,Average,4.0,Yes,Yes,Good,Low,Good,Hospitals,Family,48.0,396000.0,33000.0,0.6363636363636364
+P0554,Teacher,North Avenue,17000.0,15.3,Good,4.0,Yes,Yes,Good,Medium,Good,Public Transport,Single,54.0,768000.0,64000.0,0.265625
+P0587,Student,Tech Park,29000.0,6.1,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Quiet Environment,Family,21.0,1152000.0,96000.0,0.3020833333333333
+P0170,Government,Hill View,16000.0,13.1,Poor,4.0,No,Yes,Average,Low,Good,Hospitals,Family,41.0,624000.0,52000.0,0.3076923076923077
+P0390,It Professional,North Avenue,18000.0,8.6,Good,4.0,Yes,Yes,Good,Medium,Good,Affordable Rent,Family,65.0,768000.0,64000.0,0.28125
+P0348,Teacher,Riverside,20000.0,10.2,Average,4.0,Yes,Yes,Good,Low,Good,Short Commute,Single,36.0,768000.0,64000.0,0.3125
+P0450,Student,Tech Park,28500.0,5.0,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Affordable Rent,Family,50.0,1728000.0,144000.0,0.19791666666666666
+P0368,It Professional,Hill View,16500.0,16.4,Poor,4.0,No,Yes,Average,Low,Good,Quiet Environment,Couple,33.0,240000.0,20000.0,0.825
+P0350,Government,Tech Park,25000.0,3.5,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Affordable Rent,Couple,39.0,600000.0,50000.0,0.5
+P0279,It Professional,Green Valley,17000.0,9.9,Good,5.0,Yes,Yes,Good,Low,Excellent,Public Transport,Family,31.0,768000.0,64000.0,0.265625
+P0371,Government,Lake View,22500.0,10.8,Good,5.0,Yes,Yes,Good,Low,Good,Safety,Couple,49.0,240000.0,20000.0,1.125
+P0424,Teacher,Riverside,23500.0,12.1,Average,4.0,Yes,Yes,Good,Low,Good,Short Commute,Family,30.0,1092000.0,91000.0,0.25824175824175827
+P0421,Teacher,Lake View,27000.0,9.5,Good,5.0,Yes,Yes,Good,Low,Excellent,Short Commute,Couple,55.0,1344000.0,112000.0,0.24107142857142858
+P0027,Healthcare,Green Valley,14000.0,9.4,Good,5.0,Yes,Yes,Good,Low,Excellent,Hospitals,Couple,41.0,192000.0,16000.0,0.875
+P0179,Healthcare,City Center,24000.0,0.5,Good,3.0,Yes,Yes,Excellent,High,Excellent,Schools,Single,35.0,1644000.0,137000.0,0.17518248175182483
+P0564,Finance,Tech Park,26000.0,3.55,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Shopping Access,Family,20.0,912000.0,76000.0,0.34210526315789475
+P0578,It Professional,North Avenue,16000.0,11.0,Good,4.0,Yes,Yes,Good,Medium,Good,Affordable Rent,Family,23.0,1320000.0,110000.0,0.14545454545454545
+P0425,Healthcare,Tech Park,25500.0,3.2,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Quiet Environment,Couple,20.0,816000.0,68000.0,0.375
+P0164,It Professional,Lake View,20500.0,6.3,Good,5.0,Yes,Yes,Good,Low,Excellent,Schools,Family,39.0,912000.0,76000.0,0.26973684210526316
+P0591,Healthcare,Riverside,20500.0,14.5,Average,4.0,Yes,Yes,Good,Low,Good,Safety,Single,20.0,2004000.0,167000.0,0.12275449101796407
+P0557,Self-Employed,Green Valley,19500.0,9.9,Good,5.0,Yes,Yes,Good,Low,Excellent,Public Transport,Couple,24.0,1068000.0,89000.0,0.21910112359550563
+P0218,Healthcare,North Avenue,18000.0,9.2,Good,4.0,Yes,Yes,Good,Medium,Good,Quiet Environment,Family,21.0,252000.0,21000.0,0.8571428571428571
+P0422,Healthcare,Tech Park,24000.0,5.9,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Hospitals,Single,30.0,936000.0,78000.0,0.3076923076923077
+P0575,It Professional,Riverside,21000.0,11.9,Average,4.0,Yes,Yes,Good,Low,Good,Shopping Access,Couple,22.0,1788000.0,149000.0,0.14093959731543623
+P0376,Teacher,City Center,32500.0,2.0,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Affordable Rent,Couple,55.0,2076000.0,173000.0,0.18786127167630057
+P0490,Government,Tech Park,27500.0,2.0,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Public Transport,Single,43.0,768000.0,64000.0,0.4296875
+P0480,Student,Lake View,22500.0,10.9,Good,5.0,Yes,Yes,Good,Low,Excellent,Safety,Single,40.0,252000.0,21000.0,1.0714285714285714
+P0150,Business,City Center,29500.0,5.1,Excellent,3.0,Yes,Yes,Good,High,Excellent,Safety,Family,38.0,480000.0,40000.0,0.7375
+P0495,Teacher,Hill View,14500.0,17.0,Poor,4.0,No,Yes,Excellent,Low,Good,Affordable Rent,Family,53.0,240000.0,20000.0,0.725
+P0309,It Professional,North Avenue,16500.0,10.4,Good,4.0,Yes,Yes,Good,Medium,Good,Hospitals,Couple,35.0,144000.0,12000.0,1.375
+P0253,It Professional,Tech Park,25000.0,8.7,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Internet Availability,Single,23.0,648000.0,54000.0,0.46296296296296297
+P0311,It Professional,Hill View,17500.0,14.4,Poor,4.0,No,Yes,Average,Low,Good,Shopping Access,Single,36.0,204000.0,17000.0,1.0294117647058822
+P0035,It Professional,Riverside,21000.0,12.2,Average,4.0,Yes,Yes,Good,Low,Good,Safety,Couple,47.0,948000.0,79000.0,0.26582278481012656
+P0441,It Professional,North Avenue,19500.0,8.2,Good,4.0,Yes,Yes,Good,Medium,Good,Safety,Family,64.0,900000.0,75000.0,0.26
+P0111,Student,Green Valley,15500.0,5.5,Good,5.0,Yes,Yes,Good,Low,Excellent,Hospitals,Single,18.0,336000.0,28000.0,0.5535714285714286
+P0228,It Professional,Green Valley,19000.0,6.9,Good,5.0,Yes,Yes,Good,Low,Excellent,Schools,Couple,36.0,216000.0,18000.0,1.0555555555555556
+P0443,Teacher,Riverside,23000.0,14.4,Average,4.0,Yes,Yes,Good,Low,Good,Affordable Rent,Couple,18.0,924000.0,77000.0,0.2987012987012987
+P0541,Finance,City Center,23000.0,1.8,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Public Transport,Couple,37.0,660000.0,55000.0,0.41818181818181815
+P0451,Finance,Green Valley,18000.0,10.6,Good,5.0,Yes,Yes,Good,Low,Excellent,Affordable Rent,Family,33.0,504000.0,42000.0,0.42857142857142855
+P0553,Self-Employed,Lake View,20500.0,10.9,Good,5.0,Yes,Yes,Good,Low,Excellent,Affordable Rent,Couple,40.0,696000.0,58000.0,0.35344827586206895
+P0151,It Professional,Green Valley,15000.0,8.1,Good,5.0,Yes,Yes,Good,Low,Excellent,Hospitals,Family,34.0,1224000.0,102000.0,0.14705882352941177
+P0143,Healthcare,Riverside,15500.0,9.7,Average,4.0,Yes,Yes,Good,Low,Good,Safety,Family,23.0,912000.0,76000.0,0.20394736842105263
+P0396,Teacher,Riverside,21000.0,7.8,Average,4.0,Yes,Yes,Good,Low,Good,Affordable Rent,Family,29.0,1308000.0,109000.0,0.1926605504587156
+P0296,Healthcare,North Avenue,16500.0,10.8,Good,4.0,Yes,Yes,Good,Medium,Good,Affordable Rent,Family,45.0,588000.0,49000.0,0.336734693877551
+P0377,Government,Tech Park,27500.0,0.5,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Short Commute,Couple,31.0,828000.0,69000.0,0.39855072463768115
+P0272,Teacher,City Center,26500.0,4.5,Excellent,3.0,No,Yes,Excellent,High,Excellent,Shopping Access,Family,44.0,240000.0,20000.0,1.325
+P0552,Business,Hill View,14000.0,12.8,Poor,4.0,No,Yes,Good,Low,Good,Affordable Rent,Single,19.0,636000.0,53000.0,0.2641509433962264
+P0459,Self-Employed,Hill View,12500.0,11.2,Poor,4.0,No,Yes,Average,Low,Good,Internet Availability,Single,40.0,276000.0,23000.0,0.5434782608695652
+P0001,Business,Tech Park,25000.0,0.5,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Shopping Access,Single,21.0,420000.0,35000.0,0.7142857142857143
+P0336,Self-Employed,South Garden,14000.0,12.4,Good,3.0,No,Yes,Average,Low,Average,Safety,Single,41.0,864000.0,72000.0,0.19444444444444445
+P0405,Healthcare,Green Valley,17500.0,7.3,Good,5.0,Yes,Yes,Good,Low,Excellent,Short Commute,Couple,51.0,168000.0,14000.0,1.25
+P0485,It Professional,Riverside,22500.0,7.1,Average,4.0,Yes,Yes,Good,Low,Good,Hospitals,Single,19.0,1008000.0,84000.0,0.26785714285714285
+P0304,It Professional,City Center,25000.0,1.2,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Safety,Single,31.0,1080000.0,90000.0,0.2777777777777778
+P0440,Business,Hill View,15000.0,13.9,Poor,4.0,No,Yes,Average,Low,Good,Public Transport,Family,28.0,684000.0,57000.0,0.2631578947368421
+P0175,It Professional,Riverside,18000.0,11.5,Average,4.0,Yes,Yes,Good,Low,Good,Short Commute,Single,27.0,1020000.0,85000.0,0.21176470588235294
+P0561,Teacher,City Center,24500.0,4.1,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Safety,Family,37.0,1908000.0,159000.0,0.1540880503144654
+P0177,Healthcare,City Center,31500.0,3.8,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Short Commute,Family,33.0,276000.0,23000.0,1.3695652173913044
+P0505,Student,North Avenue,16500.0,8.5,Good,4.0,Yes,Yes,Good,Medium,Good,Hospitals,Couple,18.0,1572000.0,131000.0,0.12595419847328243
+P0545,Government,Hill View,13000.0,13.8,Poor,4.0,No,Yes,Average,Low,Good,Quiet Environment,Family,33.0,1812000.0,151000.0,0.08609271523178808
+P0302,Business,Tech Park,21500.0,5.7,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Affordable Rent,Family,23.0,1560000.0,130000.0,0.16538461538461538
+P0223,Business,City Center,21000.0,3.1,Excellent,3.0,Yes,Yes,Excellent,High,Good,Safety,Family,33.0,1980000.0,165000.0,0.12727272727272726
+P0241,Student,Green Valley,19000.0,5.6,Good,5.0,Yes,Yes,Good,Low,Excellent,Safety,Single,21.0,420000.0,35000.0,0.5428571428571428
+P0156,Student,Tech Park,23500.0,3.7,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Safety,Family,39.0,216000.0,18000.0,1.3055555555555556
+P0346,Self-Employed,Hill View,18000.0,11.7,Poor,4.0,No,Yes,Average,Low,Good,Hospitals,Couple,47.0,312000.0,26000.0,0.6923076923076923
+P0507,It Professional,Tech Park,26500.0,4.8,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Affordable Rent,Family,48.0,480000.0,40000.0,0.6625
+P0288,It Professional,North Avenue,16000.0,6.3,Good,4.0,Yes,Yes,Good,Medium,Good,Safety,Family,18.0,180000.0,15000.0,1.0666666666666667
+P0523,Student,Tech Park,27500.0,2.9,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Internet Availability,Family,45.0,1128000.0,94000.0,0.2925531914893617
+P0186,Finance,Hill View,14000.0,14.9,Poor,4.0,No,Yes,Average,Low,Good,Schools,Couple,29.0,168000.0,14000.0,1.0
+P0238,Teacher,South Garden,14000.0,12.8,Average,3.0,No,Yes,Average,Low,Average,Shopping Access,Couple,22.0,228000.0,19000.0,0.7368421052631579
+P0147,Government,Tech Park,27000.0,0.5,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Safety,Single,21.0,1488000.0,124000.0,0.21774193548387097
+P0404,Healthcare,Green Valley,22500.0,7.1,Good,5.0,Yes,Yes,Good,Low,Excellent,Safety,Couple,41.0,588000.0,49000.0,0.45918367346938777
+P0341,It Professional,Green Valley,18000.0,8.1,Good,5.0,Yes,Yes,Good,Low,Excellent,Safety,Single,39.0,936000.0,78000.0,0.23076923076923078
+P0460,Teacher,Green Valley,17000.0,4.1,Good,5.0,Yes,Yes,Good,Low,Excellent,Safety,Couple,60.0,516000.0,43000.0,0.3953488372093023
+P0343,Self-Employed,City Center,31500.0,1.2,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Safety,Couple,27.0,480000.0,40000.0,0.7875
+P0526,It Professional,City Center,31500.0,12.5,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Safety,Family,34.0,768000.0,64000.0,0.4921875
+P0105,It Professional,Lake View,19500.0,4.2,Good,5.0,Yes,Yes,Good,Low,Excellent,Internet Availability,Family,46.0,2100000.0,175000.0,0.11142857142857143
+P0411,Healthcare,North Avenue,15000.0,5.6,Good,4.0,Yes,Yes,Good,Medium,Good,Safety,Couple,27.0,744000.0,62000.0,0.24193548387096775
+P0010,Healthcare,South Garden,17000.0,13.2,Average,3.0,No,Yes,Average,Low,Average,Short Commute,Family,33.0,228000.0,19000.0,0.8947368421052632
+P0531,It Professional,Tech Park,25500.0,4.4,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Safety,Family,55.0,2004000.0,167000.0,0.15269461077844312
+P0109,Healthcare,Riverside,17500.0,10.6,Average,4.0,Yes,Yes,Good,Low,Good,Public Transport,Single,34.0,1224000.0,102000.0,0.1715686274509804
+P0167,Business,City Center,27500.0,0.5,Excellent,3.0,Yes,Yes,Excellent,Medium,Excellent,Safety,Couple,65.0,480000.0,40000.0,0.6875
+P0148,Business,Tech Park,28000.0,1.6,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Safety,Single,33.0,972000.0,81000.0,0.345679012345679
+P0556,Teacher,Lake View,20500.0,10.4,Good,5.0,Yes,Yes,Good,Low,Excellent,Schools,Family,29.0,1044000.0,87000.0,0.23563218390804597
+P0014,Self-Employed,Green Valley,25000.0,9.8,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Schools,Family,30.0,1176000.0,98000.0,0.25510204081632654
+P0453,It Professional,Tech Park,24000.0,1.5,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Public Transport,Couple,53.0,612000.0,51000.0,0.47058823529411764
+P0121,Finance,Lake View,22500.0,12.9,Good,5.0,Yes,Yes,Good,Low,Excellent,Safety,Single,30.0,792000.0,66000.0,0.3409090909090909
+P0224,Teacher,Riverside,20000.0,7.4,Average,4.0,Yes,Yes,Good,Low,Good,Schools,Family,25.0,1200000.0,100000.0,0.2
+P0565,It Professional,Riverside,21500.0,13.4,Average,4.0,Yes,Yes,Good,Low,Good,Short Commute,Couple,38.0,168000.0,14000.0,1.5357142857142858
+P0287,It Professional,Riverside,20500.0,13.5,Average,4.0,Yes,Yes,Good,Low,Good,Affordable Rent,Single,21.0,708000.0,59000.0,0.3474576271186441
+P0239,Teacher,North Avenue,19500.0,10.6,Good,4.0,Yes,Yes,Good,Medium,Good,Short Commute,Family,35.0,180000.0,15000.0,1.3
+P0244,Self-Employed,Hill View,16500.0,15.4,Poor,4.0,No,Yes,Average,Low,Good,Internet Availability,Single,28.0,1992000.0,166000.0,0.09939759036144578
+P0037,Self-Employed,North Avenue,17500.0,9.2,Good,4.0,Yes,Yes,Good,Medium,Good,Safety,Single,33.0,720000.0,60000.0,0.2916666666666667
+P0229,Government,City Center,32500.0,6.2,Good,3.0,Yes,Yes,Good,High,Excellent,Affordable Rent,Single,37.0,396000.0,33000.0,0.9848484848484849
+P0069,Self-Employed,City Center,31500.0,1.2,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Quiet Environment,Family,41.0,588000.0,49000.0,0.6428571428571429
+P0233,Healthcare,City Center,28500.0,3.3,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Affordable Rent,Couple,30.0,756000.0,63000.0,0.4523809523809524
+P0268,It Professional,Green Valley,16500.0,3.9,Good,5.0,Yes,Yes,Good,Low,Excellent,Schools,Single,38.0,576000.0,48000.0,0.34375
+P0353,Healthcare,Tech Park,23000.0,0.8,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Public Transport,Couple,43.0,816000.0,68000.0,0.3382352941176471
+P0509,Government,City Center,29500.0,0.5,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Quiet Environment,Couple,39.0,144000.0,12000.0,2.4583333333333335
+P0445,It Professional,City Center,28500.0,7.6,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Internet Availability,Couple,30.0,732000.0,61000.0,0.4672131147540984
+P0282,Student,South Garden,14000.0,12.3,Average,3.0,No,Yes,Average,Low,Average,Affordable Rent,Single,24.0,1128000.0,94000.0,0.14893617021276595
+P0119,Business,North Avenue,18500.0,11.1,Good,4.0,Yes,Yes,Good,Medium,Good,Schools,Couple,28.0,792000.0,66000.0,0.2803030303030303
+P0130,Government,Tech Park,28000.0,3.8,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Affordable Rent,Couple,60.0,360000.0,30000.0,0.9333333333333333
+P0314,Student,Hill View,16000.0,17.7,Poor,4.0,No,Yes,Good,Low,Good,Hospitals,Couple,20.0,768000.0,64000.0,0.25
+P0083,It Professional,Riverside,19500.0,11.1,Average,4.0,Yes,Yes,Good,Low,Good,Short Commute,Couple,52.0,1092000.0,91000.0,0.21428571428571427
+P0180,Teacher,Lake View,21500.0,8.2,Good,5.0,Yes,Yes,Good,Low,Excellent,Affordable Rent,Single,52.0,336000.0,28000.0,0.7678571428571429
+P0213,Finance,North Avenue,17500.0,9.6,Good,4.0,Yes,Yes,Good,Medium,Good,Safety,Single,43.0,2064000.0,172000.0,0.10174418604651163
+P0438,It Professional,City Center,24500.0,2.2,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Short Commute,Couple,42.0,1764000.0,147000.0,0.16666666666666666
+P0398,It Professional,City Center,26500.0,7.9,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Internet Availability,Single,44.0,600000.0,50000.0,0.53
+P0068,It Professional,Lake View,22500.0,12.7,Good,5.0,Yes,Yes,Good,Low,Excellent,Shopping Access,Family,59.0,672000.0,56000.0,0.4017857142857143
+P0448,It Professional,North Avenue,17500.0,5.2,Good,4.0,Yes,Yes,Good,Medium,Good,Safety,Couple,28.0,252000.0,21000.0,0.8333333333333334
+P0060,Business,Riverside,22500.0,12.9,Average,4.0,Yes,Yes,Good,Low,Good,Quiet Environment,Family,47.0,624000.0,52000.0,0.4326923076923077
+P0463,Healthcare,City Center,28500.0,3.8,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Public Transport,Family,65.0,240000.0,20000.0,1.425
+P0046,It Professional,City Center,33000.0,2.4,Excellent,3.0,Yes,Yes,Good,High,Excellent,Internet Availability,Couple,31.0,960000.0,80000.0,0.4125
+P0298,It Professional,North Avenue,22000.0,12.0,Good,4.0,Yes,Yes,Good,Medium,Good,Internet Availability,Couple,32.0,216000.0,18000.0,1.2222222222222223
+P0408,It Professional,South Garden,15500.0,13.3,Average,3.0,Yes,Yes,Average,Low,Average,Safety,Couple,35.0,1200000.0,100000.0,0.155
+P0242,Finance,North Avenue,13500.0,5.9,Good,4.0,Yes,Yes,Good,Medium,Good,Quiet Environment,Couple,60.0,1368000.0,114000.0,0.11842105263157894
+P0600,Teacher,North Avenue,19500.0,10.9,Good,4.0,Yes,Yes,Good,Medium,Good,Safety,Single,68.0,900000.0,75000.0,0.26
+P0423,Student,Riverside,20000.0,12.1,Average,4.0,Yes,Yes,Good,Low,Good,Safety,Couple,43.0,336000.0,28000.0,0.7142857142857143
+P0193,Self-Employed,Green Valley,18500.0,10.4,Good,5.0,Yes,Yes,Good,Low,Excellent,Safety,Family,41.0,1200000.0,100000.0,0.185
+P0225,It Professional,Riverside,18500.0,7.6,Average,4.0,Yes,Yes,Good,Low,Good,Quiet Environment,Single,35.0,1836000.0,153000.0,0.12091503267973856
+P0477,Finance,City Center,29000.0,1.9,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Schools,Family,27.0,1812000.0,151000.0,0.19205298013245034
+P0154,Student,City Center,28500.0,6.9,Good,3.0,Yes,Yes,Excellent,High,Excellent,Quiet Environment,Single,36.0,1200000.0,100000.0,0.285
+P0538,Finance,North Avenue,15000.0,8.4,Good,4.0,Yes,Yes,Good,Medium,Good,Affordable Rent,Couple,29.0,384000.0,32000.0,0.46875
+P0363,Government,City Center,27000.0,4.6,Excellent,3.0,Yes,No,Excellent,High,Excellent,Schools,Couple,40.0,1500000.0,125000.0,0.216
+P0188,Finance,City Center,29500.0,5.8,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Hospitals,Family,53.0,1272000.0,106000.0,0.2783018867924528
+P0455,It Professional,Green Valley,20000.0,12.0,Good,5.0,Yes,Yes,Good,Low,Excellent,Schools,Single,39.0,696000.0,58000.0,0.3448275862068966
+P0435,Teacher,South Garden,14000.0,14.9,Average,3.0,No,Yes,Average,Low,Average,Short Commute,Single,27.0,1188000.0,99000.0,0.1414141414141414
+P0094,Student,Tech Park,22500.0,4.4,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Affordable Rent,Single,23.0,600000.0,50000.0,0.45
+P0369,Teacher,North Avenue,18500.0,5.9,Good,4.0,Yes,Yes,Good,Medium,Excellent,Safety,Family,26.0,660000.0,55000.0,0.33636363636363636
+P0124,Teacher,Green Valley,20000.0,4.3,Good,5.0,Yes,Yes,Good,Low,Excellent,Public Transport,Couple,25.0,792000.0,66000.0,0.30303030303030304
+P0326,Business,City Center,25000.0,4.2,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Safety,Single,33.0,996000.0,83000.0,0.30120481927710846
+P0168,Teacher,Hill View,15500.0,19.8,Poor,4.0,No,Yes,Average,Low,Good,Hospitals,Couple,19.0,432000.0,36000.0,0.4305555555555556
+P0475,Teacher,Green Valley,20000.0,5.6,Good,5.0,Yes,Yes,Good,Low,Excellent,Schools,Family,39.0,192000.0,16000.0,1.25
+P0049,Healthcare,Tech Park,28000.0,7.3,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Public Transport,Couple,22.0,168000.0,14000.0,2.0
+P0393,Finance,Green Valley,17000.0,13.0,Good,5.0,Yes,Yes,Good,Low,Excellent,Affordable Rent,Couple,18.0,612000.0,51000.0,0.3333333333333333
+P0232,Student,City Center,29000.0,6.8,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Safety,Couple,51.0,864000.0,72000.0,0.4027777777777778
+P0417,Business,City Center,29500.0,4.0,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Hospitals,Single,43.0,2160000.0,180000.0,0.1638888888888889
+P0472,It Professional,City Center,29000.0,2.9,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Safety,Family,22.0,600000.0,50000.0,0.58
+P0394,Self-Employed,City Center,26000.0,9.3,Excellent,4.0,Yes,Yes,Excellent,High,Excellent,Safety,Single,47.0,564000.0,47000.0,0.5531914893617021
+P0203,Student,Green Valley,15000.0,6.4,Good,5.0,Yes,Yes,Good,Low,Excellent,Short Commute,Family,53.0,240000.0,20000.0,0.75
+P0220,Teacher,South Garden,12500.0,14.5,Average,3.0,No,Yes,Average,Medium,Average,Schools,Single,26.0,156000.0,13000.0,0.9615384615384616
+P0052,Teacher,South Garden,14000.0,10.6,Average,3.0,No,Yes,Average,Low,Average,Hospitals,Single,36.0,768000.0,64000.0,0.21875
+P0118,Finance,Lake View,22500.0,11.1,Excellent,5.0,Yes,Yes,Good,Low,Excellent,Schools,Couple,27.0,504000.0,42000.0,0.5357142857142857
+P0447,It Professional,Green Valley,18000.0,5.7,Good,5.0,Yes,Yes,Good,Low,Excellent,Public Transport,Single,23.0,1152000.0,96000.0,0.1875
+P0317,It Professional,Green Valley,18500.0,12.1,Good,5.0,Yes,Yes,Good,Low,Excellent,Short Commute,Single,41.0,612000.0,51000.0,0.3627450980392157
+P0071,Student,Riverside,21000.0,13.9,Average,4.0,Yes,Yes,Good,Low,Good,Safety,Family,34.0,732000.0,61000.0,0.3442622950819672
+P0320,It Professional,Green Valley,20000.0,11.2,Good,5.0,Yes,Yes,Good,Low,Excellent,Hospitals,Family,53.0,1164000.0,97000.0,0.20618556701030927
+P0379,Teacher,Green Valley,19000.0,8.1,Good,5.0,Yes,Yes,Good,Low,Excellent,Internet Availability,Family,59.0,1068000.0,89000.0,0.21348314606741572
+P0021,It Professional,City Center,28000.0,4.3,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Short Commute,Single,20.0,240000.0,20000.0,1.4
+P0470,Finance,Green Valley,18500.0,5.2,Good,5.0,Yes,Yes,Good,Low,Excellent,Internet Availability,Single,25.0,264000.0,22000.0,0.8409090909090909
+P0210,It Professional,City Center,25500.0,4.2,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Affordable Rent,Single,34.0,612000.0,51000.0,0.5
+P0267,It Professional,South Garden,12000.0,9.5,Average,3.0,No,Yes,Average,Low,Average,Internet Availability,Couple,28.0,372000.0,31000.0,0.3870967741935484
+P0098,Self-Employed,Riverside,18000.0,10.4,Average,4.0,Yes,Yes,Good,Low,Good,Safety,Couple,57.0,840000.0,70000.0,0.2571428571428571
+P0090,It Professional,Lake View,22000.0,7.0,Good,5.0,Yes,Yes,Good,Low,Excellent,Safety,Family,20.0,1932000.0,161000.0,0.13664596273291926
+P0172,Student,South Garden,14500.0,17.3,Good,3.0,No,Yes,Average,Low,Average,Short Commute,Couple,29.0,912000.0,76000.0,0.19078947368421054
+P0471,Government,Riverside,24000.0,8.1,Average,4.0,Yes,Yes,Good,Low,Good,Short Commute,Couple,34.0,192000.0,16000.0,1.5
+P0474,Healthcare,City Center,26500.0,0.5,Excellent,3.0,Yes,Yes,Excellent,Low,Excellent,Affordable Rent,Couple,20.0,624000.0,52000.0,0.5096153846153846
+P0273,Business,Riverside,19500.0,11.5,Average,4.0,Yes,Yes,Good,Low,Good,Short Commute,Couple,40.0,168000.0,14000.0,1.3928571428571428
+P0033,Self-Employed,Green Valley,16500.0,6.7,Good,5.0,Yes,Yes,Good,Low,Excellent,Shopping Access,Family,41.0,396000.0,33000.0,0.5
+P0503,Government,City Center,27500.0,7.1,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Safety,Single,38.0,180000.0,15000.0,1.8333333333333333
+P0183,Healthcare,City Center,29500.0,4.4,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Affordable Rent,Single,25.0,900000.0,75000.0,0.3933333333333333
+P0099,Teacher,North Avenue,19000.0,11.1,Good,4.0,Yes,Yes,Good,Medium,Good,Hospitals,Single,44.0,1008000.0,84000.0,0.2261904761904762
+P0023,It Professional,Tech Park,28500.0,7.2,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Safety,Family,21.0,840000.0,70000.0,0.40714285714285714
+P0039,It Professional,South Garden,14000.0,14.5,Average,3.0,No,Yes,Average,Low,Average,Quiet Environment,Family,50.0,612000.0,51000.0,0.27450980392156865
+P0096,Healthcare,Tech Park,21500.0,5.6,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Public Transport,Single,24.0,228000.0,19000.0,1.131578947368421
+P0354,Healthcare,Green Valley,18000.0,-2.0,Good,5.0,Yes,Yes,Good,Low,Excellent,Hospitals,Family,24.0,696000.0,58000.0,0.3103448275862069
+P0265,Business,South Garden,14000.0,9.1,Average,3.0,No,Yes,Average,Low,Average,Hospitals,Family,53.0,924000.0,77000.0,0.18181818181818182
+P0340,Business,North Avenue,19500.0,8.9,Good,4.0,Yes,Yes,Good,Medium,Good,Schools,Couple,37.0,2028000.0,169000.0,0.11538461538461539
+P0420,Self-Employed,Green Valley,21500.0,8.7,Good,5.0,Yes,Yes,Good,Low,Excellent,Short Commute,Couple,66.0,960000.0,80000.0,0.26875
+P0086,Government,Lake View,20500.0,8.8,Good,5.0,Yes,Yes,Good,Low,Excellent,Internet Availability,Family,22.0,240000.0,20000.0,1.025
+P0370,It Professional,Green Valley,17000.0,9.4,Good,5.0,Yes,Yes,Good,Low,Excellent,Public Transport,Couple,18.0,540000.0,45000.0,0.37777777777777777
+P0270,It Professional,Hill View,15500.0,13.2,Poor,4.0,No,Yes,Average,Low,Good,Affordable Rent,Single,34.0,1992000.0,166000.0,0.09337349397590361
+P0419,It Professional,South Garden,14500.0,12.3,Average,3.0,No,Yes,Average,Low,Average,Short Commute,Couple,19.0,252000.0,21000.0,0.6904761904761905
+P0402,Student,North Avenue,15000.0,6.9,Good,4.0,Yes,Yes,Good,Medium,Good,Public Transport,Family,40.0,240000.0,20000.0,0.75
+P0230,Government,Lake View,18000.0,9.1,Good,5.0,Yes,Yes,Good,Low,Excellent,Safety,Family,33.0,180000.0,15000.0,1.2
+P0034,Student,Green Valley,19000.0,7.9,Good,5.0,Yes,Yes,Good,Low,Excellent,Schools,Single,27.0,1956000.0,163000.0,0.1165644171779141
+P0433,Government,Green Valley,20000.0,7.5,Good,5.0,Yes,Yes,Good,Low,Excellent,Safety,Couple,57.0,612000.0,51000.0,0.39215686274509803
+P0216,Self-Employed,Hill View,16500.0,15.9,Poor,4.0,No,Yes,Good,Low,Good,Hospitals,Single,18.0,2028000.0,169000.0,0.09763313609467456
+P0595,Teacher,Green Valley,17000.0,7.8,Good,5.0,Yes,Yes,Good,Low,Excellent,Safety,Single,26.0,732000.0,61000.0,0.2786885245901639
+P0365,Student,City Center,26000.0,8.5,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Hospitals,Family,34.0,1548000.0,129000.0,0.20155038759689922
+P0360,Teacher,City Center,30500.0,4.1,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Schools,Couple,43.0,2016000.0,168000.0,0.18154761904761904
+P0271,Healthcare,South Garden,12500.0,13.3,Average,3.0,No,Yes,Average,Low,Average,Hospitals,Family,25.0,1800000.0,150000.0,0.08333333333333333
+P0583,Healthcare,Green Valley,20000.0,9.9,Good,5.0,Yes,Yes,Good,Low,Excellent,Short Commute,Couple,40.0,1068000.0,89000.0,0.2247191011235955
+P0070,It Professional,Green Valley,19000.0,7.1,Good,5.0,Yes,Yes,Good,Low,Excellent,Short Commute,Family,56.0,624000.0,52000.0,0.36538461538461536
+P0515,Student,Lake View,14500.0,9.3,Good,5.0,Yes,Yes,Good,Low,Excellent,Quiet Environment,Couple,20.0,684000.0,57000.0,0.2543859649122807
+P0020,Business,Green Valley,18500.0,6.9,Good,5.0,Yes,Yes,Good,Low,Excellent,Safety,Couple,49.0,612000.0,51000.0,0.3627450980392157
+P0501,Student,Riverside,20000.0,10.2,Average,4.0,Yes,Yes,Good,Low,Good,Affordable Rent,Single,19.0,144000.0,12000.0,1.6666666666666667
+P0189,Healthcare,Green Valley,18000.0,9.0,Good,5.0,Yes,Yes,Good,Low,Excellent,Public Transport,Family,33.0,1056000.0,88000.0,0.20454545454545456
+P0113,Student,City Center,28000.0,1.0,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Schools,Family,47.0,216000.0,18000.0,1.5555555555555556
+P0308,It Professional,Tech Park,29000.0,7.8,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Public Transport,Couple,22.0,1104000.0,92000.0,0.31521739130434784
+P0479,Government,Tech Park,24000.0,3.7,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Affordable Rent,Single,34.0,324000.0,27000.0,0.8888888888888888
+P0335,Self-Employed,Green Valley,19500.0,7.2,Good,5.0,Yes,Yes,Good,Medium,Excellent,Affordable Rent,Family,27.0,852000.0,71000.0,0.2746478873239437
+P0044,Student,Hill View,14000.0,21.0,Poor,4.0,No,Yes,Average,Low,Good,Schools,Single,20.0,168000.0,14000.0,1.0
+P0599,Finance,Hill View,18500.0,14.6,Poor,4.0,No,Yes,Average,Low,Good,Schools,Single,42.0,360000.0,30000.0,0.6166666666666667
+P0067,Healthcare,Hill View,13500.0,18.0,Poor,4.0,No,Yes,Average,Low,Good,Affordable Rent,Family,18.0,180000.0,15000.0,0.9
+P0162,Healthcare,City Center,29000.0,6.9,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Quiet Environment,Couple,68.0,660000.0,55000.0,0.5272727272727272
+P0579,Finance,Riverside,20000.0,12.8,Average,4.0,Yes,Yes,Good,Low,Good,Safety,Single,26.0,1104000.0,92000.0,0.21739130434782608
+P0392,Teacher,South Garden,19500.0,11.4,Average,3.0,No,Yes,Average,Low,Average,Public Transport,Single,21.0,180000.0,15000.0,1.3
+P0527,Government,City Center,25500.0,6.3,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Safety,Couple,39.0,792000.0,66000.0,0.38636363636363635
+P0140,It Professional,Green Valley,20500.0,7.6,Good,5.0,Yes,Yes,Good,Low,Excellent,Internet Availability,Couple,34.0,288000.0,24000.0,0.8541666666666666
+P0076,It Professional,Green Valley,19500.0,6.6,Good,5.0,Yes,Yes,Good,Low,Excellent,Public Transport,Single,29.0,204000.0,17000.0,1.1470588235294117
+P0080,Student,Green Valley,15500.0,8.4,Good,5.0,Yes,Yes,Good,Low,Excellent,Short Commute,Couple,23.0,744000.0,62000.0,0.25
+P0535,Teacher,Lake View,23500.0,7.9,Good,5.0,Yes,Yes,Good,Low,Excellent,Safety,Family,46.0,1620000.0,135000.0,0.17407407407407408
+P0059,Teacher,Green Valley,27000.0,5.1,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Quiet Environment,Family,30.0,264000.0,22000.0,1.2272727272727273
+P0366,It Professional,North Avenue,21500.0,7.8,Good,4.0,Yes,Yes,Good,Medium,Good,Schools,Single,32.0,1140000.0,95000.0,0.22631578947368422
+P0289,Business,Green Valley,20500.0,9.2,Good,5.0,Yes,Yes,Good,Low,Excellent,Public Transport,Single,34.0,1452000.0,121000.0,0.16942148760330578
+P0074,It Professional,City Center,27000.0,5.2,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Safety,Single,36.0,156000.0,13000.0,2.076923076923077
+P0260,It Professional,Green Valley,16500.0,8.7,Good,5.0,Yes,Yes,Good,Low,Excellent,Short Commute,Single,33.0,1224000.0,102000.0,0.16176470588235295
+P0312,It Professional,Green Valley,19500.0,9.7,Good,5.0,Yes,Yes,Good,Low,Excellent,Internet Availability,Couple,53.0,1728000.0,144000.0,0.13541666666666666
+P0217,Self-Employed,Hill View,15000.0,13.9,Poor,4.0,No,Yes,Average,Low,Good,Short Commute,Single,28.0,624000.0,52000.0,0.28846153846153844
+P0292,Self-Employed,Green Valley,16500.0,8.6,Good,5.0,Yes,Yes,Good,Low,Excellent,Safety,Single,40.0,1392000.0,116000.0,0.14224137931034483
+P0227,Self-Employed,Hill View,15000.0,19.0,Poor,4.0,No,Yes,Average,Low,Good,Short Commute,Family,42.0,252000.0,21000.0,0.7142857142857143
+P0468,Teacher,North Avenue,16000.0,9.2,Good,4.0,Yes,Yes,Good,Medium,Good,Safety,Single,44.0,1092000.0,91000.0,0.17582417582417584
+P0050,Finance,Riverside,18500.0,9.0,Average,4.0,Yes,Yes,Good,Low,Good,Quiet Environment,Couple,40.0,888000.0,74000.0,0.25
+P0153,Business,Green Valley,18000.0,8.3,Good,5.0,Yes,Yes,Good,Low,Excellent,Hospitals,Single,18.0,984000.0,82000.0,0.21951219512195122
+P0482,It Professional,Hill View,15000.0,15.0,Poor,4.0,No,Yes,Average,Low,Good,Internet Availability,Single,18.0,780000.0,65000.0,0.23076923076923078
+P0293,Student,Lake View,22000.0,8.9,Good,5.0,Yes,Yes,Good,Low,Excellent,Hospitals,Family,46.0,1164000.0,97000.0,0.2268041237113402
+P0516,It Professional,Green Valley,15000.0,9.8,Good,5.0,Yes,Yes,Good,Low,Excellent,Internet Availability,Couple,32.0,648000.0,54000.0,0.2777777777777778
+P0246,Student,Riverside,20000.0,11.5,Average,4.0,Yes,Yes,Good,Low,Good,Schools,Single,29.0,264000.0,22000.0,0.9090909090909091
+P0297,Self-Employed,Riverside,20000.0,13.4,Average,4.0,Yes,Yes,Good,Low,Good,Short Commute,Couple,39.0,1200000.0,100000.0,0.2
+P0250,Healthcare,Lake View,21500.0,13.3,Good,5.0,Yes,Yes,Good,Low,Excellent,Safety,Family,24.0,1020000.0,85000.0,0.2529411764705882
+P0352,Business,Tech Park,27500.0,3.3,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Short Commute,Single,38.0,1464000.0,122000.0,0.22540983606557377
+P0362,Finance,City Center,27500.0,3.3,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Public Transport,Family,37.0,780000.0,65000.0,0.4230769230769231
+P0414,It Professional,City Center,32000.0,6.2,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Internet Availability,Couple,40.0,504000.0,42000.0,0.7619047619047619
+P0464,It Professional,Tech Park,21000.0,0.5,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Affordable Rent,Single,21.0,336000.0,28000.0,0.75
+P0048,Self-Employed,City Center,28500.0,5.0,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Hospitals,Family,43.0,1404000.0,117000.0,0.24358974358974358
+P0117,It Professional,Lake View,25000.0,12.1,Good,5.0,Yes,Yes,Good,Low,Excellent,Shopping Access,Couple,53.0,900000.0,75000.0,0.3333333333333333
+P0202,Self-Employed,North Avenue,18000.0,12.5,Good,4.0,Yes,Yes,Good,Medium,Good,Hospitals,Single,20.0,1776000.0,148000.0,0.12162162162162163
+P0018,It Professional,North Avenue,19000.0,11.1,Good,4.0,Yes,Yes,Good,Medium,Good,Safety,Single,40.0,924000.0,77000.0,0.24675324675324675
+P0325,Teacher,South Garden,14000.0,16.1,Average,3.0,No,Yes,Average,Low,Average,Short Commute,Family,32.0,564000.0,47000.0,0.2978723404255319
+P0026,Healthcare,Green Valley,17000.0,5.5,Good,5.0,Yes,Yes,Good,Low,Excellent,Affordable Rent,Family,31.0,780000.0,65000.0,0.26153846153846155
+P0295,Business,City Center,28500.0,3.8,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Schools,Couple,50.0,540000.0,45000.0,0.6333333333333333
+P0418,It Professional,Tech Park,31000.0,6.6,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Affordable Rent,Couple,27.0,1056000.0,88000.0,0.3522727272727273
+P0136,It Professional,South Garden,13500.0,16.0,Average,3.0,No,Yes,Average,Low,Average,Short Commute,Single,28.0,2064000.0,172000.0,0.07848837209302326
+P0481,It Professional,Hill View,17500.0,13.3,Poor,4.0,No,Yes,Average,Low,Good,Safety,Couple,48.0,1092000.0,91000.0,0.19230769230769232
+P0028,Healthcare,Green Valley,12000.0,9.3,Good,5.0,Yes,Yes,Good,Low,Excellent,Hospitals,Family,68.0,732000.0,61000.0,0.19672131147540983
+P0439,Self-Employed,Tech Park,28500.0,1.5,Excellent,4.0,Yes,No,Excellent,Medium,Excellent,Short Commute,Single,30.0,156000.0,13000.0,2.1923076923076925
+P0029,Self-Employed,Green Valley,19500.0,5.4,Good,5.0,Yes,Yes,Good,Low,Excellent,Short Commute,Family,67.0,876000.0,73000.0,0.2671232876712329
+P0436,Business,Hill View,18000.0,16.1,Poor,4.0,No,Yes,Average,Low,Good,Shopping Access,Single,30.0,768000.0,64000.0,0.28125
+P0413,Student,Green Valley,19500.0,7.8,Good,5.0,Yes,Yes,Good,Low,Excellent,Affordable Rent,Single,21.0,852000.0,71000.0,0.2746478873239437
+P0542,Healthcare,South Garden,13500.0,12.6,Average,3.0,No,Yes,Average,Low,Average,Affordable Rent,Couple,54.0,816000.0,68000.0,0.19852941176470587
+P0334,It Professional,City Center,27500.0,9.6,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Schools,Family,41.0,1224000.0,102000.0,0.2696078431372549
+P0391,Finance,City Center,27000.0,1.2,Excellent,3.0,Yes,Yes,Excellent,High,Excellent,Schools,Couple,19.0,984000.0,82000.0,0.32926829268292684
+P0258,Finance,Hill View,16500.0,15.6,Poor,4.0,No,Yes,Average,Low,Good,Public Transport,Single,32.0,1368000.0,114000.0,0.14473684210526316
